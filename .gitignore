@@ -1,0 +1,13 @@
+# Credentials — never commit
+config.json
+
+# Output / local data
+ODBC2039_Found.csv
+Fix_ODBC2039.zip
+
+# IDE / tooling
+.mcp.json
+
+# dotnet-script cache
+.cache/
+*.lock.json

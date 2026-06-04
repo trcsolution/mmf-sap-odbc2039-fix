@@ -1,0 +1,64 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "SAP Fix: default DocNum (5054686)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Fix_SAP_Order_ODBC2039.csx\"",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP Fix: by DocNum (prompt)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Fix_SAP_Order_ODBC2039.csx\" -- docnum:${input:docNum}",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP Fix: by U_CXS_TRID (prompt)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Fix_SAP_Order_ODBC2039.csx\" -- trid:${input:trid}",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP: Scan logs for ODBC -2039 errors (all)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Scan-SAPLogs-ODBC2039.csx\"",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP: Scan logs for ODBC -2039 errors (from date)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Scan-SAPLogs-ODBC2039.csx\" -- from:${input:fromDate}",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "docNum",
+            "type": "promptString",
+            "description": "Enter Sales Order DocNum",
+            "default": "5054686"
+        },
+        {
+            "id": "trid",
+            "type": "promptString",
+            "description": "Enter U_CXS_TRID value"
+        },
+        {
+            "id": "fromDate",
+            "type": "promptString",
+            "description": "Scan logs from date (yyyyMMdd, e.g. 20260530)",
+            "default": ""
+        }
+    ]
+}
