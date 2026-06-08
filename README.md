@@ -66,7 +66,8 @@ Edit this file when deploying to a different environment:
 
 ```json
 {
-  "Server":        "DevServer\\SQL20",
+  "DiServer":      "DevServer",
+  "SqlServer":     "DevServer\\SQL20",
   "CompanyDB":     "SAP_MURPHY",
   "UserName":      "manager",
   "Password":      "MMSap2023!",
@@ -119,7 +120,7 @@ dotnet script Fix_SAP_Order_ODBC2039.csx -- trid:TXN-00123
 Lookup mode : DOCNUM
 Lookup value: 5054686
 Resolved to DocEntry 445884
-Connecting to SAP_MURPHY on DevServer\SQL20 ...
+Connecting to SAP_MURPHY on DevServer ...
 Connected OK.
 Order retrieved: DocEntry=445884  DocNum=5054686  Status=0
 Calling Update() ...
@@ -153,7 +154,8 @@ The most relevant log files for DI API issues:
 
 | Setting | Value |
 |---------|-------|
-| SQL Server | `DevServer\SQL20` |
+| SAP DI Server (`DiServer`) | `DevServer` |
+| SQL Server (`SqlServer`) | `DevServer\SQL20` |
 | Database | `SAP_MURPHY` |
 | License Server | `localhost:30000` |
 | SLD Server | `DevServer:40000` |

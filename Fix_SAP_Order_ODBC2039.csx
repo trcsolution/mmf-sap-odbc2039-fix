@@ -29,7 +29,8 @@ if (!File.Exists(configPath))
 var configDoc = JsonDocument.Parse(File.ReadAllText(configPath));
 var cfg = configDoc.RootElement;
 
-string Server        = cfg.GetProperty("Server").GetString()!;
+string DiServer      = cfg.GetProperty("DiServer").GetString()!;
+string SqlServer     = cfg.GetProperty("SqlServer").GetString()!;
 string CompanyDB     = cfg.GetProperty("CompanyDB").GetString()!;
 string UserName      = cfg.GetProperty("UserName").GetString()!;
 string Password      = cfg.GetProperty("Password").GetString()!;
@@ -71,7 +72,7 @@ Console.WriteLine($"Lookup value: {lookupValue}");
 
 // --- Resolve to DocEntry via SQL --------------------------------------------
 int docEntry = 0;
-string connStr = $"Server={Server};Database={CompanyDB};User Id={DbUserName};Password={DbPassword};TrustServerCertificate=True;";
+string connStr = $"Server={SqlServer};Database={CompanyDB};User Id={DbUserName};Password={DbPassword};TrustServerCertificate=True;";
 
 using (var sql = new SqlConnection(connStr))
 {
@@ -94,13 +95,13 @@ using (var sql = new SqlConnection(connStr))
 }
 
 Console.WriteLine($"Resolved to DocEntry {docEntry}");
-Console.WriteLine($"Connecting to {CompanyDB} on {Server} ...");
+Console.WriteLine($"Connecting to {CompanyDB} on {DiServer} ...");
 
 // --- Connect via DI API -----------------------------------------------------
 dynamic company = Activator.CreateInstance(Type.GetTypeFromProgID("SAPbobsCOM.Company"))
     ?? throw new Exception("Could not create SAPbobsCOM.Company COM object. Is the DI API installed?");
 
-company.Server        = Server;
+company.Server        = DiServer;
 company.CompanyDB     = CompanyDB;
 company.UserName      = UserName;
 company.Password      = Password;
@@ -108,8 +109,8 @@ company.DbUserName    = DbUserName;
 company.DbPassword    = DbPassword;
 company.DbServerType  = DbSrvType;
 company.UseTrusted    = false;
-company.LicenseServer = "localhost:30000";
-company.SLDServer     = "DevServer:40000";
+company.LicenseServer = LicenseServer;
+company.SLDServer     = SLDServer;
 
 int ret = company.Connect();
 if (ret != 0)

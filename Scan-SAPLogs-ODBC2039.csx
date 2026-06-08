@@ -30,7 +30,7 @@ if (!File.Exists(configPath))
 }
 
 var cfg = JsonDocument.Parse(File.ReadAllText(configPath)).RootElement;
-string sqlServer  = cfg.GetProperty("Server").GetString()!;
+string sqlServer  = cfg.GetProperty("SqlServer").GetString()!;
 string sqlDb      = cfg.GetProperty("CompanyDB").GetString()!;
 string sqlUser    = cfg.GetProperty("DbUserName").GetString()!;
 string sqlPass    = cfg.GetProperty("DbPassword").GetString()!;
