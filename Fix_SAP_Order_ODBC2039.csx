@@ -1,13 +1,17 @@
 #!/usr/bin/env dotnet-script
 //==============================================================================
 //  Fix_SAP_Order_ODBC2039.csx
-//  Opens a SAP B1 Sales Order via DI API and calls Update() to re-commit
-//  inventory and clear the ODBC -2039 lock.
+//  Opens a SAP B1 Sales Order or Purchase Order via DI API and calls Update()
+//  to re-commit inventory and clear the ODBC -2039 lock.
 //
-//  USAGE:
-//    dotnet script Fix_SAP_Order_ODBC2039.csx                       <- default DocNum
-//    dotnet script Fix_SAP_Order_ODBC2039.csx -- docnum:5054686     <- by DocNum
-//    dotnet script Fix_SAP_Order_ODBC2039.csx -- trid:TXN-00123     <- by U_CXS_TRID
+//  USAGE (Sales Orders):
+//    dotnet script Fix_SAP_Order_ODBC2039.csx                          <- default DocNum (SO)
+//    dotnet script Fix_SAP_Order_ODBC2039.csx -- docnum:5054686        <- Sales Order by DocNum
+//    dotnet script Fix_SAP_Order_ODBC2039.csx -- trid:TXN-00123        <- Sales Order by U_CXS_TRID
+//
+//  USAGE (Purchase Orders):
+//    dotnet script Fix_SAP_Order_ODBC2039.csx -- po-docnum:5054686     <- Purchase Order by DocNum
+//    dotnet script Fix_SAP_Order_ODBC2039.csx -- po-trid:TXN-00123     <- Purchase Order by U_CXS_TRID
 //==============================================================================
 
 #r "nuget: Microsoft.Data.SqlClient, 5.2.1"
@@ -29,7 +33,6 @@ if (!File.Exists(configPath))
 var configDoc = JsonDocument.Parse(File.ReadAllText(configPath));
 var cfg = configDoc.RootElement;
 
-string DiServer      = cfg.GetProperty("DiServer").GetString()!;
 string SqlServer     = cfg.GetProperty("SqlServer").GetString()!;
 string CompanyDB     = cfg.GetProperty("CompanyDB").GetString()!;
 string UserName      = cfg.GetProperty("UserName").GetString()!;
@@ -42,31 +45,53 @@ string LicenseServer = cfg.GetProperty("LicenseServer").GetString()!;
 string SLDServer     = cfg.GetProperty("SLDServer").GetString()!;
 // ----------------------------------------------------------------------------
 
-// --- Parse argument: docnum:XXXXXX  or  trid:XXXXXX  or plain number --------
+// --- Parse argument: po-docnum:XXXXXX  po-trid:XXXXXX  docnum:XXXXXX  trid:XXXXXX  or plain number --------
 string lookupMode  = "docnum";
 string lookupValue = DefaultDocNum.ToString();
+string orderType   = "SO";   // SO = Sales Order, PO = Purchase Order
 
 if (Args.Count > 0)
 {
     var arg = Args[0].Trim();
-    if (arg.StartsWith("trid:", StringComparison.OrdinalIgnoreCase))
+    if (arg.StartsWith("po-trid:", StringComparison.OrdinalIgnoreCase))
     {
+        orderType   = "PO";
+        lookupMode  = "trid";
+        lookupValue = arg.Substring(8).Trim();
+    }
+    else if (arg.StartsWith("po-docnum:", StringComparison.OrdinalIgnoreCase))
+    {
+        orderType   = "PO";
+        lookupMode  = "docnum";
+        lookupValue = arg.Substring(10).Trim();
+    }
+    else if (arg.StartsWith("trid:", StringComparison.OrdinalIgnoreCase))
+    {
+        orderType   = "SO";
         lookupMode  = "trid";
         lookupValue = arg.Substring(5).Trim();
     }
     else if (arg.StartsWith("docnum:", StringComparison.OrdinalIgnoreCase))
     {
+        orderType   = "SO";
         lookupMode  = "docnum";
         lookupValue = arg.Substring(7).Trim();
     }
     else
     {
-        // plain number treated as DocNum
+        // plain number treated as Sales Order DocNum
+        orderType   = "SO";
         lookupMode  = "docnum";
         lookupValue = arg;
     }
 }
 
+// Derive table name, DI API business object type and display label from orderType
+string tableName  = orderType == "PO" ? "OPOR" : "ORDR";
+int    boType     = orderType == "PO" ? 22 : 17;   // 22 = boPurchaseOrders, 17 = boOrders
+string orderLabel = orderType == "PO" ? "Purchase Order" : "Sales Order";
+
+Console.WriteLine($"Order type  : {orderLabel}");
 Console.WriteLine($"Lookup mode : {lookupMode.ToUpper()}");
 Console.WriteLine($"Lookup value: {lookupValue}");
 
@@ -79,8 +104,8 @@ using (var sql = new SqlConnection(connStr))
     sql.Open();
 
     string query = lookupMode == "trid"
-        ? "SELECT DocEntry FROM ORDR WITH(NOLOCK) WHERE U_CXS_TRID = @val"
-        : "SELECT DocEntry FROM ORDR WITH(NOLOCK) WHERE DocNum = @val";
+        ? $"SELECT DocEntry FROM {tableName} WITH(NOLOCK) WHERE U_CXS_TRID = @val"
+        : $"SELECT DocEntry FROM {tableName} WITH(NOLOCK) WHERE DocNum = @val";
 
     using var cmd = new SqlCommand(query, sql);
     cmd.Parameters.AddWithValue("@val", lookupValue);
@@ -88,20 +113,20 @@ using (var sql = new SqlConnection(connStr))
 
     if (result == null)
     {
-        Console.WriteLine($"ERROR: No Sales Order found where {lookupMode.ToUpper()} = '{lookupValue}'.");
+        Console.WriteLine($"ERROR: No {orderLabel} found where {lookupMode.ToUpper()} = '{lookupValue}'.");
         Environment.Exit(1);
     }
     docEntry = Convert.ToInt32(result);
 }
 
 Console.WriteLine($"Resolved to DocEntry {docEntry}");
-Console.WriteLine($"Connecting to {CompanyDB} on {DiServer} ...");
+Console.WriteLine($"Connecting to {CompanyDB} on {SqlServer} ...");
 
 // --- Connect via DI API -----------------------------------------------------
 dynamic company = Activator.CreateInstance(Type.GetTypeFromProgID("SAPbobsCOM.Company"))
     ?? throw new Exception("Could not create SAPbobsCOM.Company COM object. Is the DI API installed?");
 
-company.Server        = DiServer;
+company.Server        = SqlServer;
 company.CompanyDB     = CompanyDB;
 company.UserName      = UserName;
 company.Password      = Password;
@@ -120,8 +145,8 @@ if (ret != 0)
 }
 Console.WriteLine("Connected OK.");
 
-// --- Retrieve the Sales Order -----------------------------------------------
-dynamic order = company.GetBusinessObject(17); // 17 = boOrders
+// --- Retrieve the Sales Order or Purchase Order -----------------------------
+dynamic order = company.GetBusinessObject(boType); // 17 = boOrders, 22 = boPurchaseOrders
 
 if (!(bool)order.GetByKey(docEntry))
 {
@@ -130,12 +155,12 @@ if (!(bool)order.GetByKey(docEntry))
     Environment.Exit(1);
 }
 
-Console.WriteLine($"Order retrieved: DocEntry={docEntry}  DocNum={order.DocNum}  Status={order.DocumentStatus}");
+Console.WriteLine($"{orderLabel} retrieved: DocEntry={docEntry}  DocNum={order.DocNum}  Status={order.DocumentStatus}");
 
 // --- Must be open (DocumentStatus = 0 = bost_Open) --------------------------
 if ((int)order.DocumentStatus != 0)
 {
-    Console.WriteLine($"Order is already closed (status={order.DocumentStatus}). Nothing to do.");
+    Console.WriteLine($"{orderLabel} is already closed (status={order.DocumentStatus}). Nothing to do.");
     company.Disconnect();
     Environment.Exit(0);
 }
@@ -168,12 +193,12 @@ if (ret != 0)
 }
 
 Console.WriteLine();
-Console.WriteLine($"SUCCESS!  Sales Order {docEntry} (DocNum {order.DocNum}) updated via DI API.");
+Console.WriteLine($"SUCCESS!  {orderLabel} {docEntry} (DocNum {order.DocNum}) updated via DI API.");
 Console.WriteLine("SAP has re-evaluated the order. The ODBC -2039 lock should now be cleared.");
 Console.WriteLine();
-Console.WriteLine("  *** IMPORTANT: Do NOT open the Sales Order in SAP yet! ***");
+Console.WriteLine($"  *** IMPORTANT: Do NOT open the {orderLabel} in SAP yet! ***");
 Console.WriteLine("  Waiting for SAP connection to disconnect cleanly ...");
 
 company.Disconnect();
 
-Console.WriteLine("  SAP connection closed. You may now open the Sales Order in SAP B1.");
+Console.WriteLine($"  SAP connection closed. You may now open the {orderLabel} in SAP B1.");

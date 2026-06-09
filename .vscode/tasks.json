@@ -26,6 +26,46 @@
             "problemMatcher": []
         },
         {
+            "label": "SAP Fix: PO by DocNum (prompt)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Fix_SAP_Order_ODBC2039.csx\" -- po-docnum:${input:poDocNum}",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP Fix: PO by U_CXS_TRID (prompt)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Fix_SAP_Order_ODBC2039.csx\" -- po-trid:${input:poTrid}",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP: Detect at-risk orders (report only)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Detect-ODBC2039.csx\"",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP: Detect at-risk orders (auto-fix)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Detect-ODBC2039.csx\" -- autofix",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "SAP: Detect at-risk orders (dry run)",
+            "type": "shell",
+            "command": "dotnet script \"${workspaceFolder}\\Detect-ODBC2039.csx\" -- dryrun",
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+            "problemMatcher": []
+        },
+        {
             "label": "SAP: Scan logs for ODBC -2039 errors (all)",
             "type": "shell",
             "command": "dotnet script \"${workspaceFolder}\\Scan-SAPLogs-ODBC2039.csx\"",
@@ -52,7 +92,18 @@
         {
             "id": "trid",
             "type": "promptString",
-            "description": "Enter U_CXS_TRID value"
+            "description": "Enter Sales Order U_CXS_TRID value"
+        },
+        {
+            "id": "poDocNum",
+            "type": "promptString",
+            "description": "Enter Purchase Order DocNum",
+            "default": ""
+        },
+        {
+            "id": "poTrid",
+            "type": "promptString",
+            "description": "Enter Purchase Order U_CXS_TRID value"
         },
         {
             "id": "fromDate",

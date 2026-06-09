@@ -6,16 +6,22 @@ goto end
 
 :usage
 echo.
-echo  SAP B1 Sales Order Fix - ODBC -2039
-echo  =====================================
+echo  SAP B1 Sales Order ^& Purchase Order Fix - ODBC -2039
+echo  =====================================================
 echo.
-echo  USAGE:
-echo    Run-Fix.bat docnum:^<DocNum^>     - fix by Sales Order DocNum
-echo    Run-Fix.bat trid:^<U_CXS_TRID^>  - fix by U_CXS_TRID field value
+echo  USAGE (Sales Orders):
+echo    Run-Fix.bat docnum:^<DocNum^>        - fix Sales Order by DocNum
+echo    Run-Fix.bat trid:^<U_CXS_TRID^>     - fix Sales Order by U_CXS_TRID value
+echo.
+echo  USAGE (Purchase Orders):
+echo    Run-Fix.bat po-docnum:^<DocNum^>     - fix Purchase Order by DocNum
+echo    Run-Fix.bat po-trid:^<U_CXS_TRID^>  - fix Purchase Order by U_CXS_TRID value
 echo.
 echo  EXAMPLES:
 echo    Run-Fix.bat docnum:5054686
 echo    Run-Fix.bat trid:TXN-00123
+echo    Run-Fix.bat po-docnum:5054686
+echo    Run-Fix.bat po-trid:TXN-00123
 echo.
 
 :end
