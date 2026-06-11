@@ -1,0 +1,1197 @@
+	Microsoft SQL Server
+DevServer
+SQL Server Profiler - 00b1b40f-c740-4804-b7a8-64156d45fcb1
+tSQL Server Profiler - 00b1b40f-c740-4804-b7a8-64156d45fcb1
+Microsoft JDBC Driver for SQL Server
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+SQLTELEMETRY$SQL20
+NT SERVICE\SQLTELEMETRY$SQL20
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+B1_SBOCOMMON
+Microsoft SQL Server Management Studio - Query
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+B1_SBOCOMMON
+SAP Business One
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+B1_5341505F4D5552504859_RO
+Microsoft SQL Server Management Studio
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+B1_5341505F4D5552504859_RW
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SELECT 1
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+sp_execute
+*datetime2(7)
+varchar(8000)
+sp_execute
+sp_execute
+sp_execute
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 13
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+sp_prepexec
+nvarchar(max)"
+@P1 nvarchar(256)
+nvarchar(max)~
+SELECT 1 FROM OUSR WHERE (USER_CODE = @P1) AND (CUSAgree = 'Y')6
+nvarchar(256)
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=8
+exec sp_prepexec @p1 output,N'@P1 nvarchar(256)',N'SELECT 1 FROM OUSR WHERE (USER_CODE = @P1) AND (CUSAgree = ''Y'')',N'manager'
+select @p1
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[ItemCode] FROM  [dbo].[OITM] T0  WHERE T0.[ItemCode] IN(@P1,@P2,@P3)   AND  T0.[InvntItem] = (@P4)  
+nvarchar(max)
+@P1 nvarchar(254),@P2 nvarchar(254),@P3 nvarchar(254),@P4 char(1):
+nvarchar(254)
+BF02335CU:
+nvarchar(254)
+MD01934CU6
+nvarchar(254)
+sp_prepexec
+nvarchar(max)
+@P1 smallint
+nvarchar(max)
+SELECT TOP 1 T0.[GroupNum] , T0.[PymntGroup] , T0.[PayDuMonth] , T0.[ExtraMonth] , T0.[ExtraDays] , T0.[PaymntsNum] , T0.[CredLimit] , T0.[VolumDscnt] , T0.[LatePyChrg] , T0.[ObligLimit] , T0.[ListNum] , T0.[Payments] , T0.[NumOfPmnts] , T0.[Payment1] , T0.[DataSource] , T0.[UserSign] , T0.[OpenRcpt] , T0.[DiscCode] , T0.[DunningCod] , T0.[BslineDate] , T0.[InstNum] , T0.[TolDays] , T0.[VATFirst] , T0.[CrdMthd] , T0.[CshRelev] , T0.[UserSign2] , T0.[UpdateDate] , T0.[LogInstanc] , T0.[CreateDate] , T0.[PDueMonEnd]  FROM [dbo].[OCTG] T0 WHERE T0.[GroupNum] = (@P1)  
+4smallint
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=49
+exec sp_prepexec @p1 output,N'@P1 smallint',N'SELECT TOP 1 T0.[GroupNum] , T0.[PymntGroup] , T0.[PayDuMonth] , T0.[ExtraMonth] , T0.[ExtraDays] , T0.[PaymntsNum] , T0.[CredLimit] , T0.[VolumDscnt] , T0.[LatePyChrg] , T0.[ObligLimit] , T0.[ListNum] , T0.[Payments] , T0.[NumOfPmnts] , T0.[Payment1] , T0.[DataSource] , T0.[UserSign] , T0.[OpenRcpt] , T0.[DiscCode] , T0.[DunningCod] , T0.[BslineDate] , T0.[InstNum] , T0.[TolDays] , T0.[VATFirst] , T0.[CrdMthd] , T0.[CshRelev] , T0.[UserSign2] , T0.[UpdateDate] , T0.[LogInstanc] , T0.[CreateDate] , T0.[PDueMonEnd]  FROM [dbo].[OCTG] T0 WHERE T0.[GroupNum] = (@P1)  ',-1
+select @p1
+SAP Business One
+sp_execute
+nvarchar(254)
+BF02335CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 47,N'BF02335CU',N'GEN'
+SAP Business One
+sp_execute
+nvarchar(254)
+MD03208.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 47,N'MD03208',N'GEN'
+SAP Business One
+sp_prepexec
+nvarchar(max)"
+@P1 nvarchar(254)
+nvarchar(max)
+SELECT T0.[ItemCode] , T0.[ItemName] , T0.[FrgnName] , T0.[ItmsGrpCod] , T0.[CstGrpCode] , T0.[VatGourpSa] , T0.[CodeBars] , T0.[VATLiable] , T0.[PrchseItem] , T0.[SellItem] , T0.[InvntItem] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[IncomeAcct] , T0.[ExmptIncom] , T0.[MaxLevel] , T0.[DfltWH] , T0.[CardCode] , T0.[SuppCatNum] , T0.[BuyUnitMsr] , T0.[NumInBuy] , T0.[ReorderQty] , T0.[MinLevel] , T0.[LstEvlPric] , T0.[LstEvlDate] , T0.[CustomPer] , T0.[Canceled] , T0.[MnufctTime] , T0.[WholSlsTax] , T0.[RetilrTax] , T0.[SpcialDisc] , T0.[DscountCod] , T0.[TrackSales] , T0.[SalUnitMsr] , T0.[NumInSale] , T0.[Consig] , T0.[QueryGroup] , T0.[Counted] , T0.[OpenBlnc] , T0.[EvalSystem] , T0.[UserSign] , T0.[FREE] , T0.[PicturName] , T0.[Transfered] , T0.[BlncTrnsfr] , T0.[UserText] , T0.[SerialNum] , T0.[CommisPcnt] , T0.[CommisSum] , T0.[CommisGrp] , T0.[TreeType] , T0.[TreeQty] , T0.[LastPurPrc] , T0.[LastPurCur] , T0.[LastPurDat] , T0.[ExitCur] , T0.[ExitPrice] , T0.[ExitWH] , T0.[AssetItem] , T0.[WasCounted] , T0.[ManSerNum] , T0.[SHeight1] , T0.[SHght1Unit] , T0.[SHeight2] , T0.[SHght2Unit] , T0.[SWidth1] , T0.[SWdth1Unit] , T0.[SWidth2] , T0.[SWdth2Unit] , T0.[SLength1] , T0.[SLen1Unit] , T0.[Slength2] , T0.[SLen2Unit] , T0.[SVolume] , T0.[SVolUnit] , T0.[SWeight1] , T0.[SWght1Unit] , T0.[SWeight2] , T0.[SWght2Unit] , T0.[BHeight1] , T0.[BHght1Unit] , T0.[BHeight2] , T0.[BHght2Unit] , T0.[BWidth1] , T0.[BWdth1Unit] , T0.[BWidth2] , T0.[BWdth2Unit] , T0.[BLength1] , T0.[BLen1Unit] , T0.[Blength2] , T0.[BLen2Unit] , T0.[BVolume] , T0.[BVolUnit] , T0.[BWeight1] , T0.[BWght1Unit] , T0.[BWeight2] , T0.[BWght2Unit] , T0.[FixCurrCms] , T0.[FirmCode] , T0.[LstSalDate] , T0.[QryGroup1] , T0.[QryGroup2] , T0.[QryGroup3] , T0.[QryGroup4] , T0.[QryGroup5] , T0.[QryGroup6] , T0.[QryGroup7] , T0.[QryGroup8] , T0.[QryGroup9] , T0.[QryGroup10] , T0.[QryGroup11] , T0.[QryGroup12] , T0.[QryGroup13] , T0.[QryGroup14] , T0.[QryGroup15] , T0.[QryGroup16] , T0.[QryGroup17] , T0.[QryGroup18] , T0.[QryGroup19] , T0.[QryGroup20] , T0.[QryGroup21] , T0.[QryGroup22] , T0.[QryGroup23] , T0.[QryGroup24] , T0.[QryGroup25] , T0.[QryGroup26] , T0.[QryGroup27] , T0.[QryGroup28] , T0.[QryGroup29] , T0.[QryGroup30] , T0.[QryGroup31] , T0.[QryGroup32] , T0.[QryGroup33] , T0.[QryGroup34] , T0.[QryGroup35] , T0.[QryGroup36] , T0.[QryGroup37] , T0.[QryGroup38] , T0.[QryGroup39] , T0.[QryGroup40] , T0.[QryGroup41] , T0.[QryGroup42] , T0.[QryGroup43] , T0.[QryGroup44] , T0.[QryGroup45] , T0.[QryGroup46] , T0.[QryGroup47] , T0.[QryGroup48] , T0.[QryGroup49] , T0.[QryGroup50] , T0.[QryGroup51] , T0.[QryGroup52] , T0.[QryGroup53] , T0.[QryGroup54] , T0.[QryGroup55] , T0.[QryGroup56] , T0.[QryGroup57] , T0.[QryGroup58] , T0.[QryGroup59] , T0.[QryGroup60] , T0.[QryGroup61] , T0.[QryGroup62] , T0.[QryGroup63] , T0.[QryGroup64] , T0.[CreateDate] , T0.[UpdateDate] , T0.[ExportCode] , T0.[SalFactor1] , T0.[SalFactor2] , T0.[SalFactor3] , T0.[SalFactor4] , T0.[PurFactor1] , T0.[PurFactor2] , T0.[PurFactor3] , T0.[PurFactor4] , T0.[SalFormula] , T0.[PurFormula] , T0.[VatGroupPu] , T0.[AvgPrice] , T0.[PurPackMsr] , T0.[PurPackUn] , T0.[SalPackMsr] , T0.[SalPackUn] , T0.[SCNCounter] , T0.[ManBtchNum] , T0.[ManOutOnly] , T0.[DataSource] , T0.[validFor] , T0.[validFrom] , T0.[validTo] , T0.[frozenFor] , T0.[frozenFrom] , T0.[frozenTo] , T0.[BlockOut] , T0.[ValidComm] , T0.[FrozenComm] , T0.[LogInstanc] , T0.[ObjType] , T0.[SWW] , T0.[Deleted] , T0.[DocEntry] , T0.[ExpensAcct] , T0.[FrgnInAcct] , T0.[ShipType] , T0.[GLMethod] , T0.[ECInAcct] , T0.[FrgnExpAcc] , T0.[ECExpAcc] , T0.[TaxType] , T0.[ByWh] , T0.[WTLiable] , T0.[ItemType] , T0.[WarrntTmpl] , T0.[BaseUnit] , T0.[CountryOrg] , T0.[StockValue] , T0.[Phantom] , T0.[IssueMthd] , T0.[FREE1] , T0.[PricingPrc] , T0.[MngMethod] , T0.[ReorderPnt] , T0.[InvntryUom] , T0.[PlaningSys] , T0.[PrcrmntMtd] , T0.[OrdrIntrvl] , T0.[OrdrMulti] , T0.[MinOrdrQty] , T0.[LeadTime] , T0.[IndirctTax] , T0.[TaxCodeAR] , T0.[TaxCodeAP] , T0.[OSvcCode] , T0.[ISvcCode] , T0.[ServiceGrp] , T0.[NCMCode] , T0.[MatType] , T0.[MatGrp] , T0.[ProductSrc] , T0.[ServiceCtg] , T0.[ItemClass] , T0.[Excisable] , T0.[ChapterID] , T0.[NotifyASN] , T0.[ProAssNum] , T0.[AssblValue] , T0.[DNFEntry] , T0.[UserSign2] , T0.[Spec] , T0.[TaxCtg] , T0.[Series] , T0.[Number] , T0.[FuelCode] , T0.[BeverTblC] , T0.[BeverGrpC] , T0.[BeverTM] , T0.[Attachment] , T0.[AtcEntry] , T0.[ToleranDay] , T0.[UgpEntry] , T0.[PUoMEntry] , T0.[SUoMEntry] , T0.[IUoMEntry] , T0.[IssuePriBy] , T0.[AssetClass] , T0.[AssetGroup] , T0.[InventryNo] , T0.[Technician] , T0.[Employee] , T0.[Location] , T0.[StatAsset] , T0.[Cession] , T0.[DeacAftUL] , T0.[AsstStatus] , T0.[CapDate] , T0.[AcqDate] , T0.[RetDate] , T0.[GLPickMeth] , T0.[NoDiscount] , T0.[MgrByQty] , T0.[AssetRmk1] , T0.[AssetRmk2] , T0.[AssetAmnt1] , T0.[AssetAmnt2] , T0.[DeprGroup] , T0.[AssetSerNo] , T0.[CntUnitMsr] , T0.[NumInCnt] , T0.[INUoMEntry] , T0.[OneBOneRec] , T0.[RuleCode] , T0.[ScsCode] , T0.[SpProdType] , T0.[IWeight1] , T0.[IWght1Unit] , T0.[IWeight2] , T0.[IWght2Unit] , T0.[CompoWH] , T0.[CreateTS] , T0.[UpdateTS] , T0.[VirtAstItm] , T0.[SouVirAsst] , T0.[InCostRoll] , T0.[PrdStdCst] , T0.[EnAstSeri] , T0.[LinkRsc] , T0.[OnHldPert] , T0.[onHldLimt] , T0.[PriceUnit] , T0.[GSTRelevnt] , T0.[SACEntry] , T0.[GstTaxCtg] , T0.[AssVal4WTR] , T0.[ExcImpQUoM] , T0.[ExcFixAmnt] , T0.[ExcRate] , T0.[SOIExc] , T0.[TNVED] , T0.[Imported] , T0.[AutoBatch] , T0.[CstmActing] , T0.[StdItemId] , T0.[CommClass] , T0.[TaxCatCode] , T0.[DataVers] , T0.[NVECode] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[LegalText] , T0.[QRCodeSrc] , T0.[Traceable] , T0.[IfrsPsRev] , T0.[PlPaTaxCat] , T0.[PlPaWght] , T0.[PPTExReSa] , T0.[PPTExRePr] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[SalUomNum] , T0.[SalUomDen] , T0.[BuyUomNum] , T0.[BuyUomDen] , T0.[IncUomNum] , T0.[IncUomDen] , T0.[NoApDisc] , T0.[U_BNComCod] , T0.[U_BNOriCtr] , T0.[U_CXS_MDFD] , T0.[U_CXS_REIT] , T0.[U_CXS_ACID] , T0.[U_CXS_TIPR] , T0.[U_CXS_ZVIT] , T0.[U_CXS_ISDT] , T0.[U_CXS_ISGC] , T0.[U_CXS_NSPO] , T0.[U_CXS_ISTO] , T0.[U_CXS_SLDC] , T0.[U_TRC_ECOM_WebItem] , T0.[U_NextArrival] , T0.[U_BOY_TB_0] , T0.[U_BeSpoke] , T0.[U_NoOfBoxes] , T0.[U_BreakPack] , T0.[U_TRC_OutOfStock] , T0.[U_TRC_COLLECTION] , T0.[U_TRC_COLL_ITM_GROUP] , T0.[U_TRC_Num_Of_Seats] , T0.[U_QBit] , T0.[U_TRC_Style] , T0.[U_TRC_WEB_3RD_PRICE] , T0.[U_Material] , T0.[U_Colour] , T0.[U_Capacity] , T0.[U_Recliner]  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P1)  :
+nvarchar(254)
+BF02335CU
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=51
+exec sp_prepexec @p1 output,N'@P1 nvarchar(254)',N'SELECT T0.[ItemCode] , T0.[ItemName] , T0.[FrgnName] , T0.[ItmsGrpCod] , T0.[CstGrpCode] , T0.[VatGourpSa] , T0.[CodeBars] , T0.[VATLiable] , T0.[PrchseItem] , T0.[SellItem] , T0.[InvntItem] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[IncomeAcct] , T0.[ExmptIncom] , T0.[MaxLevel] , T0.[DfltWH] , T0.[CardCode] , T0.[SuppCatNum] , T0.[BuyUnitMsr] , T0.[NumInBuy] , T0.[ReorderQty] , T0.[MinLevel] , T0.[LstEvlPric] , T0.[LstEvlDate] , T0.[CustomPer] , T0.[Canceled] , T0.[MnufctTime] , T0.[WholSlsTax] , T0.[RetilrTax] , T0.[SpcialDisc] , T0.[DscountCod] , T0.[TrackSales] , T0.[SalUnitMsr] , T0.[NumInSale] , T0.[Consig] , T0.[QueryGroup] , T0.[Counted] , T0.[OpenBlnc] , T0.[EvalSystem] , T0.[UserSign] , T0.[FREE] , T0.[PicturName] , T0.[Transfered] , T0.[BlncTrnsfr] , T0.[UserText] , T0.[SerialNum] , T0.[CommisPcnt] , T0.[CommisSum] , T0.[CommisGrp] , T0.[TreeType] , T0.[TreeQty] , T0.[LastPurPrc] , T0.[LastPurCur] , T0.[LastPurDat] , T0.[ExitCur] , T0.[ExitPrice] , T0.[ExitWH] , T0.[AssetItem] , T0.[WasCounted] , T0.[ManSerNum] , T0.[SHeight1] , T0.[SHght1Unit] , T0.[SHeight2] , T0.[SHght2Unit] , T0.[SWidth1] , T0.[SWdth1Unit] , T0.[SWidth2] , T0.[SWdth2Unit] , T0.[SLength1] , T0.[SLen1Unit] , T0.[Slength2] , T0.[SLen2Unit] , T0.[SVolume] , T0.[SVolUnit] , T0.[SWeight1] , T0.[SWght1Unit] , T0.[SWeight2] , T0.[SWght2Unit] , T0.[BHeight1] , T0.[BHght1Unit] , T0.[BHeight2] , T0.[BHght2Unit] , T0.[BWidth1] , T0.[BWdth1Unit] , T0.[BWidth2] , T0.[BWdth2Unit] , T0.[BLength1] , T0.[BLen1Unit] , T0.[Blength2] , T0.[BLen2Unit] , T0.[BVolume] , T0.[BVolUnit] , T0.[BWeight1] , T0.[BWght1Unit] , T0.[BWeight2] , T0.[BWght2Unit] , T0.[FixCurrCms] , T0.[FirmCode] , T0.[LstSalDate] , T0.[QryGroup1] , T0.[QryGroup2] , T0.[QryGroup3] , T0.[QryGroup4] , T0.[QryGroup5] , T0.[QryGroup6] , T0.[QryGroup7] , T0.[QryGroup8] , T0.[QryGroup9] , T0.[QryGroup10] , T0.[QryGroup11] , T0.[QryGroup12] , T0.[QryGroup13] , T0.[QryGroup14] , T0.[QryGroup15] , T0.[QryGroup16] , T0.[QryGroup17] , T0.[QryGroup18] , T0.[QryGroup19] , T0.[QryGroup20] , T0.[QryGroup21] , T0.[QryGroup22] , T0.[QryGroup23] , T0.[QryGroup24] , T0.[QryGroup25] , T0.[QryGroup26] , T0.[QryGroup27] , T0.[QryGroup28] , T0.[QryGroup29] , T0.[QryGroup30] , T0.[QryGroup31] , T0.[QryGroup32] , T0.[QryGroup33] , T0.[QryGroup34] , T0.[QryGroup35] , T0.[QryGroup36] , T0.[QryGroup37] , T0.[QryGroup38] , T0.[QryGroup39] , T0.[QryGroup40] , T0.[QryGroup41] , T0.[QryGroup42] , T0.[QryGroup43] , T0.[QryGroup44] , T0.[QryGroup45] , T0.[QryGroup46] , T0.[QryGroup47] , T0.[QryGroup48] , T0.[QryGroup49] , T0.[QryGroup50] , T0.[QryGroup51] , T0.[QryGroup52] , T0.[QryGroup53] , T0.[QryGroup54] , T0.[QryGroup55] , T0.[QryGroup56] , T0.[QryGroup57] , T0.[QryGroup58] , T0.[QryGroup59] , T0.[QryGroup60] , T0.[QryGroup61] , T0.[QryGroup62] , T0.[QryGroup63] , T0.[QryGroup64] , T0.[CreateDate] , T0.[UpdateDate] , T0.[ExportCode] , T0.[SalFactor1] , T0.[SalFactor2] , T0.[SalFactor3] , T0.[SalFactor4] , T0.[PurFactor1] , T0.[PurFactor2] , T0.[PurFactor3] , T0.[PurFactor4] , T0.[SalFormula] , T0.[PurFormula] , T0.[VatGroupPu] , T0.[AvgPrice] , T0.[PurPackMsr] , T0.[PurPackUn] , T0.[SalPackMsr] , T0.[SalPackUn] , T0.[SCNCounter] , T0.[ManBtchNum] , T0.[ManOutOnly] , T0.[DataSource] , T0.[validFor] , T0.[validFrom] , T0.[validTo] , T0.[frozenFor] , T0.[frozenFrom] , T0.[frozenTo] , T0.[BlockOut] , T0.[ValidComm] , T0.[FrozenComm] , T0.[LogInstanc] , T0.[ObjType] , T0.[SWW] , T0.[Deleted] , T0.[DocEntry] , T0.[ExpensAcct] , T0.[FrgnInAcct] , T0.[ShipType] , T0.[GLMethod] , T0.[ECInAcct] , T0.[FrgnExpAcc] , T0.[ECExpAcc] , T0.[TaxType] , T0.[ByWh] , T0.[WTLiable] , T0.[ItemType] , T0.[WarrntTmpl] , T0.[BaseUnit] , T0.[CountryOrg] , T0.[StockValue] , T0.[Phantom] , T0.[IssueMthd] , T0.[FREE1] , T0.[PricingPrc] , T0.[MngMethod] , T0.[ReorderPnt] , T0.[InvntryUom] , T0.[PlaningSys] , T0.[PrcrmntMtd] , T0.[OrdrIntrvl] , T0.[OrdrMulti] , T0.[MinOrdrQty] , T0.[LeadTime] , T0.[IndirctTax] , T0.[TaxCodeAR] , T0.[TaxCodeAP] , T0.[OSvcCode] , T0.[ISvcCode] , T0.[ServiceGrp] , T0.[NCMCode] , T0.[MatType] , T0.[MatGrp] , T0.[ProductSrc] , T0.[ServiceCtg] , T0.[ItemClass] , T0.[Excisable] , T0.[ChapterID] , T0.[NotifyASN] , T0.[ProAssNum] , T0.[AssblValue] , T0.[DNFEntry] , T0.[UserSign2] , T0.[Spec] , T0.[TaxCtg] , T0.[Series] , T0.[Number] , T0.[FuelCode] , T0.[BeverTblC] , T0.[BeverGrpC] , T0.[BeverTM] , T0.[Attachment] , T0.[AtcEntry] , T0.[ToleranDay] , T0.[UgpEntry] , T0.[PUoMEntry] , T0.[SUoMEntry] , T0.[IUoMEntry] , T0.[IssuePriBy] , T0.[AssetClass] , T0.[AssetGroup] , T0.[InventryNo] , T0.[Technician] , T0.[Employee] , T0.[Location] , T0.[StatAsset] , T0.[Cession] , T0.[DeacAftUL] , T0.[AsstStatus] , T0.[CapDate] , T0.[AcqDate] , T0.[RetDate] , T0.[GLPickMeth] , T0.[NoDiscount] , T0.[MgrByQty] , T0.[AssetRmk1] , T0.[AssetRmk2] , T0.[AssetAmnt1] , T0.[AssetAmnt2] , T0.[DeprGroup] , T0.[AssetSerNo] , T0.[CntUnitMsr] , T0.[NumInCnt] , T0.[INUoMEntry] , T0.[OneBOneRec] , T0.[RuleCode] , T0.[ScsCode] , T0.[SpProdType] , T0.[IWeight1] , T0.[IWght1Unit] , T0.[IWeight2] , T0.[IWght2Unit] , T0.[CompoWH] , T0.[CreateTS] , T0.[UpdateTS] , T0.[VirtAstItm] , T0.[SouVirAsst] , T0.[InCostRoll] , T0.[PrdStdCst] , T0.[EnAstSeri] , T0.[LinkRsc] , T0.[OnHldPert] , T0.[onHldLimt] , T0.[PriceUnit] , T0.[GSTRelevnt] , T0.[SACEntry] , T0.[GstTaxCtg] , T0.[AssVal4WTR] , T0.[ExcImpQUoM] , T0.[ExcFixAmnt] , T0.[ExcRate] , T0.[SOIExc] , T0.[TNVED] , T0.[Imported] , T0.[AutoBatch] , T0.[CstmActing] , T0.[StdItemId] , T0.[CommClass] , T0.[TaxCatCode] , T0.[DataVers] , T0.[NVECode] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[LegalText] , T0.[QRCodeSrc] , T0.[Traceable] , T0.[IfrsPsRev] , T0.[PlPaTaxCat] , T0.[PlPaWght] , T0.[PPTExReSa] , T0.[PPTExRePr] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[SalUomNum] , T0.[SalUomDen] , T0.[BuyUomNum] , T0.[BuyUomDen] , T0.[IncUomNum] , T0.[IncUomDen] , T0.[NoApDisc] , T0.[U_BNComCod] , T0.[U_BNOriCtr] , T0.[U_CXS_MDFD] , T0.[U_CXS_REIT] , T0.[U_CXS_ACID] , T0.[U_CXS_TIPR] , T0.[U_CXS_ZVIT] , T0.[U_CXS_ISDT] , T0.[U_CXS_ISGC] , T0.[U_CXS_NSPO] , T0.[U_CXS_ISTO] , T0.[U_CXS_SLDC] , T0.[U_TRC_ECOM_WebItem] , T0.[U_NextArrival] , T0.[U_BOY_TB_0] , T0.[U_BeSpoke] , T0.[U_NoOfBoxes] , T0.[U_BreakPack] , T0.[U_TRC_OutOfStock] , T0.[U_TRC_COLLECTION] , T0.[U_TRC_COLL_ITM_GROUP] , T0.[U_TRC_Num_Of_Seats] , T0.[U_QBit] , T0.[U_TRC_Style] , T0.[U_TRC_WEB_3RD_PRICE] , T0.[U_Material] , T0.[U_Colour] , T0.[U_Capacity] , T0.[U_Recliner]  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P1)  ',N'BF02335CU'
+select @p1
+SAP Business One
+sp_execute
+nvarchar(254)
+BF02335CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 47,N'BF02335CU',N'GEN'
+SAP Business One
+sp_execute
+nvarchar(254)
+MD01934CU
+B1_5341505F4D5552504859_RW
+exec sp_execute 51,N'MD01934CU'
+SAP Business One
+sp_execute
+nvarchar(254)
+MD01934CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 47,N'MD01934CU',N'GEN'
+SAP Business One
+sp_execute
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 51,N'MD03208'
+SAP Business One
+sp_execute
+nvarchar(254)
+MD03208.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 47,N'MD03208',N'GEN'
+SAP Business One
+-- TRACE: Trans Id=3 START: FUDflUpdProc, form id 139, title Sales Order
+B1_5341505F4D5552504859_RW
+ SET TRANSACTION ISOLATION LEVEL SERIALIZABLE 
+B1_5341505F4D5552504859_RW
+SAP Business One
+SAP Business One
+sp_prepexec
+nvarchar(max)"
+@P1 nvarchar(254)
+nvarchar(max)
+SELECT T0.[ItemCode] , T0.[ItemName] , T0.[FrgnName] , T0.[ItmsGrpCod] , T0.[CstGrpCode] , T0.[VatGourpSa] , T0.[CodeBars] , T0.[VATLiable] , T0.[PrchseItem] , T0.[SellItem] , T0.[InvntItem] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[IncomeAcct] , T0.[ExmptIncom] , T0.[MaxLevel] , T0.[DfltWH] , T0.[CardCode] , T0.[SuppCatNum] , T0.[BuyUnitMsr] , T0.[NumInBuy] , T0.[ReorderQty] , T0.[MinLevel] , T0.[LstEvlPric] , T0.[LstEvlDate] , T0.[CustomPer] , T0.[Canceled] , T0.[MnufctTime] , T0.[WholSlsTax] , T0.[RetilrTax] , T0.[SpcialDisc] , T0.[DscountCod] , T0.[TrackSales] , T0.[SalUnitMsr] , T0.[NumInSale] , T0.[Consig] , T0.[QueryGroup] , T0.[Counted] , T0.[OpenBlnc] , T0.[EvalSystem] , T0.[UserSign] , T0.[FREE] , T0.[PicturName] , T0.[Transfered] , T0.[BlncTrnsfr] , T0.[UserText] , T0.[SerialNum] , T0.[CommisPcnt] , T0.[CommisSum] , T0.[CommisGrp] , T0.[TreeType] , T0.[TreeQty] , T0.[LastPurPrc] , T0.[LastPurCur] , T0.[LastPurDat] , T0.[ExitCur] , T0.[ExitPrice] , T0.[ExitWH] , T0.[AssetItem] , T0.[WasCounted] , T0.[ManSerNum] , T0.[SHeight1] , T0.[SHght1Unit] , T0.[SHeight2] , T0.[SHght2Unit] , T0.[SWidth1] , T0.[SWdth1Unit] , T0.[SWidth2] , T0.[SWdth2Unit] , T0.[SLength1] , T0.[SLen1Unit] , T0.[Slength2] , T0.[SLen2Unit] , T0.[SVolume] , T0.[SVolUnit] , T0.[SWeight1] , T0.[SWght1Unit] , T0.[SWeight2] , T0.[SWght2Unit] , T0.[BHeight1] , T0.[BHght1Unit] , T0.[BHeight2] , T0.[BHght2Unit] , T0.[BWidth1] , T0.[BWdth1Unit] , T0.[BWidth2] , T0.[BWdth2Unit] , T0.[BLength1] , T0.[BLen1Unit] , T0.[Blength2] , T0.[BLen2Unit] , T0.[BVolume] , T0.[BVolUnit] , T0.[BWeight1] , T0.[BWght1Unit] , T0.[BWeight2] , T0.[BWght2Unit] , T0.[FixCurrCms] , T0.[FirmCode] , T0.[LstSalDate] , T0.[QryGroup1] , T0.[QryGroup2] , T0.[QryGroup3] , T0.[QryGroup4] , T0.[QryGroup5] , T0.[QryGroup6] , T0.[QryGroup7] , T0.[QryGroup8] , T0.[QryGroup9] , T0.[QryGroup10] , T0.[QryGroup11] , T0.[QryGroup12] , T0.[QryGroup13] , T0.[QryGroup14] , T0.[QryGroup15] , T0.[QryGroup16] , T0.[QryGroup17] , T0.[QryGroup18] , T0.[QryGroup19] , T0.[QryGroup20] , T0.[QryGroup21] , T0.[QryGroup22] , T0.[QryGroup23] , T0.[QryGroup24] , T0.[QryGroup25] , T0.[QryGroup26] , T0.[QryGroup27] , T0.[QryGroup28] , T0.[QryGroup29] , T0.[QryGroup30] , T0.[QryGroup31] , T0.[QryGroup32] , T0.[QryGroup33] , T0.[QryGroup34] , T0.[QryGroup35] , T0.[QryGroup36] , T0.[QryGroup37] , T0.[QryGroup38] , T0.[QryGroup39] , T0.[QryGroup40] , T0.[QryGroup41] , T0.[QryGroup42] , T0.[QryGroup43] , T0.[QryGroup44] , T0.[QryGroup45] , T0.[QryGroup46] , T0.[QryGroup47] , T0.[QryGroup48] , T0.[QryGroup49] , T0.[QryGroup50] , T0.[QryGroup51] , T0.[QryGroup52] , T0.[QryGroup53] , T0.[QryGroup54] , T0.[QryGroup55] , T0.[QryGroup56] , T0.[QryGroup57] , T0.[QryGroup58] , T0.[QryGroup59] , T0.[QryGroup60] , T0.[QryGroup61] , T0.[QryGroup62] , T0.[QryGroup63] , T0.[QryGroup64] , T0.[CreateDate] , T0.[UpdateDate] , T0.[ExportCode] , T0.[SalFactor1] , T0.[SalFactor2] , T0.[SalFactor3] , T0.[SalFactor4] , T0.[PurFactor1] , T0.[PurFactor2] , T0.[PurFactor3] , T0.[PurFactor4] , T0.[SalFormula] , T0.[PurFormula] , T0.[VatGroupPu] , T0.[AvgPrice] , T0.[PurPackMsr] , T0.[PurPackUn] , T0.[SalPackMsr] , T0.[SalPackUn] , T0.[SCNCounter] , T0.[ManBtchNum] , T0.[ManOutOnly] , T0.[DataSource] , T0.[validFor] , T0.[validFrom] , T0.[validTo] , T0.[frozenFor] , T0.[frozenFrom] , T0.[frozenTo] , T0.[BlockOut] , T0.[ValidComm] , T0.[FrozenComm] , T0.[LogInstanc] , T0.[ObjType] , T0.[SWW] , T0.[Deleted] , T0.[DocEntry] , T0.[ExpensAcct] , T0.[FrgnInAcct] , T0.[ShipType] , T0.[GLMethod] , T0.[ECInAcct] , T0.[FrgnExpAcc] , T0.[ECExpAcc] , T0.[TaxType] , T0.[ByWh] , T0.[WTLiable] , T0.[ItemType] , T0.[WarrntTmpl] , T0.[BaseUnit] , T0.[CountryOrg] , T0.[StockValue] , T0.[Phantom] , T0.[IssueMthd] , T0.[FREE1] , T0.[PricingPrc] , T0.[MngMethod] , T0.[ReorderPnt] , T0.[InvntryUom] , T0.[PlaningSys] , T0.[PrcrmntMtd] , T0.[OrdrIntrvl] , T0.[OrdrMulti] , T0.[MinOrdrQty] , T0.[LeadTime] , T0.[IndirctTax] , T0.[TaxCodeAR] , T0.[TaxCodeAP] , T0.[OSvcCode] , T0.[ISvcCode] , T0.[ServiceGrp] , T0.[NCMCode] , T0.[MatType] , T0.[MatGrp] , T0.[ProductSrc] , T0.[ServiceCtg] , T0.[ItemClass] , T0.[Excisable] , T0.[ChapterID] , T0.[NotifyASN] , T0.[ProAssNum] , T0.[AssblValue] , T0.[DNFEntry] , T0.[UserSign2] , T0.[Spec] , T0.[TaxCtg] , T0.[Series] , T0.[Number] , T0.[FuelCode] , T0.[BeverTblC] , T0.[BeverGrpC] , T0.[BeverTM] , T0.[Attachment] , T0.[AtcEntry] , T0.[ToleranDay] , T0.[UgpEntry] , T0.[PUoMEntry] , T0.[SUoMEntry] , T0.[IUoMEntry] , T0.[IssuePriBy] , T0.[AssetClass] , T0.[AssetGroup] , T0.[InventryNo] , T0.[Technician] , T0.[Employee] , T0.[Location] , T0.[StatAsset] , T0.[Cession] , T0.[DeacAftUL] , T0.[AsstStatus] , T0.[CapDate] , T0.[AcqDate] , T0.[RetDate] , T0.[GLPickMeth] , T0.[NoDiscount] , T0.[MgrByQty] , T0.[AssetRmk1] , T0.[AssetRmk2] , T0.[AssetAmnt1] , T0.[AssetAmnt2] , T0.[DeprGroup] , T0.[AssetSerNo] , T0.[CntUnitMsr] , T0.[NumInCnt] , T0.[INUoMEntry] , T0.[OneBOneRec] , T0.[RuleCode] , T0.[ScsCode] , T0.[SpProdType] , T0.[IWeight1] , T0.[IWght1Unit] , T0.[IWeight2] , T0.[IWght2Unit] , T0.[CompoWH] , T0.[CreateTS] , T0.[UpdateTS] , T0.[VirtAstItm] , T0.[SouVirAsst] , T0.[InCostRoll] , T0.[PrdStdCst] , T0.[EnAstSeri] , T0.[LinkRsc] , T0.[OnHldPert] , T0.[onHldLimt] , T0.[PriceUnit] , T0.[GSTRelevnt] , T0.[SACEntry] , T0.[GstTaxCtg] , T0.[AssVal4WTR] , T0.[ExcImpQUoM] , T0.[ExcFixAmnt] , T0.[ExcRate] , T0.[SOIExc] , T0.[TNVED] , T0.[Imported] , T0.[AutoBatch] , T0.[CstmActing] , T0.[StdItemId] , T0.[CommClass] , T0.[TaxCatCode] , T0.[DataVers] , T0.[NVECode] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[LegalText] , T0.[QRCodeSrc] , T0.[Traceable] , T0.[IfrsPsRev] , T0.[PlPaTaxCat] , T0.[PlPaWght] , T0.[PPTExReSa] , T0.[PPTExRePr] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[SalUomNum] , T0.[SalUomDen] , T0.[BuyUomNum] , T0.[BuyUomDen] , T0.[IncUomNum] , T0.[IncUomDen] , T0.[NoApDisc] , T0.[U_BNComCod] , T0.[U_BNOriCtr] , T0.[U_CXS_MDFD] , T0.[U_CXS_REIT] , T0.[U_CXS_ACID] , T0.[U_CXS_TIPR] , T0.[U_CXS_ZVIT] , T0.[U_CXS_ISDT] , T0.[U_CXS_ISGC] , T0.[U_CXS_NSPO] , T0.[U_CXS_ISTO] , T0.[U_CXS_SLDC] , T0.[U_TRC_ECOM_WebItem] , T0.[U_NextArrival] , T0.[U_BOY_TB_0] , T0.[U_BeSpoke] , T0.[U_NoOfBoxes] , T0.[U_BreakPack] , T0.[U_TRC_OutOfStock] , T0.[U_TRC_COLLECTION] , T0.[U_TRC_COLL_ITM_GROUP] , T0.[U_TRC_Num_Of_Seats] , T0.[U_QBit] , T0.[U_TRC_Style] , T0.[U_TRC_WEB_3RD_PRICE] , T0.[U_Material] , T0.[U_Colour] , T0.[U_Capacity] , T0.[U_Recliner]  FROM [dbo].[OITM] T0 WITH (UPDLOCK) WHERE T0.[ItemCode] = (@P1)  :
+nvarchar(254)
+BF02335CU
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=54
+exec sp_prepexec @p1 output,N'@P1 nvarchar(254)',N'SELECT T0.[ItemCode] , T0.[ItemName] , T0.[FrgnName] , T0.[ItmsGrpCod] , T0.[CstGrpCode] , T0.[VatGourpSa] , T0.[CodeBars] , T0.[VATLiable] , T0.[PrchseItem] , T0.[SellItem] , T0.[InvntItem] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[IncomeAcct] , T0.[ExmptIncom] , T0.[MaxLevel] , T0.[DfltWH] , T0.[CardCode] , T0.[SuppCatNum] , T0.[BuyUnitMsr] , T0.[NumInBuy] , T0.[ReorderQty] , T0.[MinLevel] , T0.[LstEvlPric] , T0.[LstEvlDate] , T0.[CustomPer] , T0.[Canceled] , T0.[MnufctTime] , T0.[WholSlsTax] , T0.[RetilrTax] , T0.[SpcialDisc] , T0.[DscountCod] , T0.[TrackSales] , T0.[SalUnitMsr] , T0.[NumInSale] , T0.[Consig] , T0.[QueryGroup] , T0.[Counted] , T0.[OpenBlnc] , T0.[EvalSystem] , T0.[UserSign] , T0.[FREE] , T0.[PicturName] , T0.[Transfered] , T0.[BlncTrnsfr] , T0.[UserText] , T0.[SerialNum] , T0.[CommisPcnt] , T0.[CommisSum] , T0.[CommisGrp] , T0.[TreeType] , T0.[TreeQty] , T0.[LastPurPrc] , T0.[LastPurCur] , T0.[LastPurDat] , T0.[ExitCur] , T0.[ExitPrice] , T0.[ExitWH] , T0.[AssetItem] , T0.[WasCounted] , T0.[ManSerNum] , T0.[SHeight1] , T0.[SHght1Unit] , T0.[SHeight2] , T0.[SHght2Unit] , T0.[SWidth1] , T0.[SWdth1Unit] , T0.[SWidth2] , T0.[SWdth2Unit] , T0.[SLength1] , T0.[SLen1Unit] , T0.[Slength2] , T0.[SLen2Unit] , T0.[SVolume] , T0.[SVolUnit] , T0.[SWeight1] , T0.[SWght1Unit] , T0.[SWeight2] , T0.[SWght2Unit] , T0.[BHeight1] , T0.[BHght1Unit] , T0.[BHeight2] , T0.[BHght2Unit] , T0.[BWidth1] , T0.[BWdth1Unit] , T0.[BWidth2] , T0.[BWdth2Unit] , T0.[BLength1] , T0.[BLen1Unit] , T0.[Blength2] , T0.[BLen2Unit] , T0.[BVolume] , T0.[BVolUnit] , T0.[BWeight1] , T0.[BWght1Unit] , T0.[BWeight2] , T0.[BWght2Unit] , T0.[FixCurrCms] , T0.[FirmCode] , T0.[LstSalDate] , T0.[QryGroup1] , T0.[QryGroup2] , T0.[QryGroup3] , T0.[QryGroup4] , T0.[QryGroup5] , T0.[QryGroup6] , T0.[QryGroup7] , T0.[QryGroup8] , T0.[QryGroup9] , T0.[QryGroup10] , T0.[QryGroup11] , T0.[QryGroup12] , T0.[QryGroup13] , T0.[QryGroup14] , T0.[QryGroup15] , T0.[QryGroup16] , T0.[QryGroup17] , T0.[QryGroup18] , T0.[QryGroup19] , T0.[QryGroup20] , T0.[QryGroup21] , T0.[QryGroup22] , T0.[QryGroup23] , T0.[QryGroup24] , T0.[QryGroup25] , T0.[QryGroup26] , T0.[QryGroup27] , T0.[QryGroup28] , T0.[QryGroup29] , T0.[QryGroup30] , T0.[QryGroup31] , T0.[QryGroup32] , T0.[QryGroup33] , T0.[QryGroup34] , T0.[QryGroup35] , T0.[QryGroup36] , T0.[QryGroup37] , T0.[QryGroup38] , T0.[QryGroup39] , T0.[QryGroup40] , T0.[QryGroup41] , T0.[QryGroup42] , T0.[QryGroup43] , T0.[QryGroup44] , T0.[QryGroup45] , T0.[QryGroup46] , T0.[QryGroup47] , T0.[QryGroup48] , T0.[QryGroup49] , T0.[QryGroup50] , T0.[QryGroup51] , T0.[QryGroup52] , T0.[QryGroup53] , T0.[QryGroup54] , T0.[QryGroup55] , T0.[QryGroup56] , T0.[QryGroup57] , T0.[QryGroup58] , T0.[QryGroup59] , T0.[QryGroup60] , T0.[QryGroup61] , T0.[QryGroup62] , T0.[QryGroup63] , T0.[QryGroup64] , T0.[CreateDate] , T0.[UpdateDate] , T0.[ExportCode] , T0.[SalFactor1] , T0.[SalFactor2] , T0.[SalFactor3] , T0.[SalFactor4] , T0.[PurFactor1] , T0.[PurFactor2] , T0.[PurFactor3] , T0.[PurFactor4] , T0.[SalFormula] , T0.[PurFormula] , T0.[VatGroupPu] , T0.[AvgPrice] , T0.[PurPackMsr] , T0.[PurPackUn] , T0.[SalPackMsr] , T0.[SalPackUn] , T0.[SCNCounter] , T0.[ManBtchNum] , T0.[ManOutOnly] , T0.[DataSource] , T0.[validFor] , T0.[validFrom] , T0.[validTo] , T0.[frozenFor] , T0.[frozenFrom] , T0.[frozenTo] , T0.[BlockOut] , T0.[ValidComm] , T0.[FrozenComm] , T0.[LogInstanc] , T0.[ObjType] , T0.[SWW] , T0.[Deleted] , T0.[DocEntry] , T0.[ExpensAcct] , T0.[FrgnInAcct] , T0.[ShipType] , T0.[GLMethod] , T0.[ECInAcct] , T0.[FrgnExpAcc] , T0.[ECExpAcc] , T0.[TaxType] , T0.[ByWh] , T0.[WTLiable] , T0.[ItemType] , T0.[WarrntTmpl] , T0.[BaseUnit] , T0.[CountryOrg] , T0.[StockValue] , T0.[Phantom] , T0.[IssueMthd] , T0.[FREE1] , T0.[PricingPrc] , T0.[MngMethod] , T0.[ReorderPnt] , T0.[InvntryUom] , T0.[PlaningSys] , T0.[PrcrmntMtd] , T0.[OrdrIntrvl] , T0.[OrdrMulti] , T0.[MinOrdrQty] , T0.[LeadTime] , T0.[IndirctTax] , T0.[TaxCodeAR] , T0.[TaxCodeAP] , T0.[OSvcCode] , T0.[ISvcCode] , T0.[ServiceGrp] , T0.[NCMCode] , T0.[MatType] , T0.[MatGrp] , T0.[ProductSrc] , T0.[ServiceCtg] , T0.[ItemClass] , T0.[Excisable] , T0.[ChapterID] , T0.[NotifyASN] , T0.[ProAssNum] , T0.[AssblValue] , T0.[DNFEntry] , T0.[UserSign2] , T0.[Spec] , T0.[TaxCtg] , T0.[Series] , T0.[Number] , T0.[FuelCode] , T0.[BeverTblC] , T0.[BeverGrpC] , T0.[BeverTM] , T0.[Attachment] , T0.[AtcEntry] , T0.[ToleranDay] , T0.[UgpEntry] , T0.[PUoMEntry] , T0.[SUoMEntry] , T0.[IUoMEntry] , T0.[IssuePriBy] , T0.[AssetClass] , T0.[AssetGroup] , T0.[InventryNo] , T0.[Technician] , T0.[Employee] , T0.[Location] , T0.[StatAsset] , T0.[Cession] , T0.[DeacAftUL] , T0.[AsstStatus] , T0.[CapDate] , T0.[AcqDate] , T0.[RetDate] , T0.[GLPickMeth] , T0.[NoDiscount] , T0.[MgrByQty] , T0.[AssetRmk1] , T0.[AssetRmk2] , T0.[AssetAmnt1] , T0.[AssetAmnt2] , T0.[DeprGroup] , T0.[AssetSerNo] , T0.[CntUnitMsr] , T0.[NumInCnt] , T0.[INUoMEntry] , T0.[OneBOneRec] , T0.[RuleCode] , T0.[ScsCode] , T0.[SpProdType] , T0.[IWeight1] , T0.[IWght1Unit] , T0.[IWeight2] , T0.[IWght2Unit] , T0.[CompoWH] , T0.[CreateTS] , T0.[UpdateTS] , T0.[VirtAstItm] , T0.[SouVirAsst] , T0.[InCostRoll] , T0.[PrdStdCst] , T0.[EnAstSeri] , T0.[LinkRsc] , T0.[OnHldPert] , T0.[onHldLimt] , T0.[PriceUnit] , T0.[GSTRelevnt] , T0.[SACEntry] , T0.[GstTaxCtg] , T0.[AssVal4WTR] , T0.[ExcImpQUoM] , T0.[ExcFixAmnt] , T0.[ExcRate] , T0.[SOIExc] , T0.[TNVED] , T0.[Imported] , T0.[AutoBatch] , T0.[CstmActing] , T0.[StdItemId] , T0.[CommClass] , T0.[TaxCatCode] , T0.[DataVers] , T0.[NVECode] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[LegalText] , T0.[QRCodeSrc] , T0.[Traceable] , T0.[IfrsPsRev] , T0.[PlPaTaxCat] , T0.[PlPaWght] , T0.[PPTExReSa] , T0.[PPTExRePr] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[SalUomNum] , T0.[SalUomDen] , T0.[BuyUomNum] , T0.[BuyUomDen] , T0.[IncUomNum] , T0.[IncUomDen] , T0.[NoApDisc] , T0.[U_BNComCod] , T0.[U_BNOriCtr] , T0.[U_CXS_MDFD] , T0.[U_CXS_REIT] , T0.[U_CXS_ACID] , T0.[U_CXS_TIPR] , T0.[U_CXS_ZVIT] , T0.[U_CXS_ISDT] , T0.[U_CXS_ISGC] , T0.[U_CXS_NSPO] , T0.[U_CXS_ISTO] , T0.[U_CXS_SLDC] , T0.[U_TRC_ECOM_WebItem] , T0.[U_NextArrival] , T0.[U_BOY_TB_0] , T0.[U_BeSpoke] , T0.[U_NoOfBoxes] , T0.[U_BreakPack] , T0.[U_TRC_OutOfStock] , T0.[U_TRC_COLLECTION] , T0.[U_TRC_COLL_ITM_GROUP] , T0.[U_TRC_Num_Of_Seats] , T0.[U_QBit] , T0.[U_TRC_Style] , T0.[U_TRC_WEB_3RD_PRICE] , T0.[U_Material] , T0.[U_Colour] , T0.[U_Capacity] , T0.[U_Recliner]  FROM [dbo].[OITM] T0 WITH (UPDLOCK) WHERE T0.[ItemCode] = (@P1)  ',N'BF02335CU'
+select @p1
+SAP Business One
+sp_execute
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 54,N'MD03208'
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocStatus] FROM  [dbo].[ODRF] T0  WHERE T0.[DocEntry] = (@P1)  6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocStatus] FROM  [dbo].[ODRF] T0  WHERE T0.[DocEntry] = (@P1)  ',N'@P1 int',0
+SAP Business One
+SELECT T0.[WddCode] , T0.[StepCode] , T0.[UserID] , T0.[Status] , T0.[Remarks] , T0.[UserSign] , T0.[CreateDate] , T0.[CreateTime] , T0.[UpdateDate] , T0.[UpdateTime] , T0.[SortId] , T0.[AuthUpdDat] , T0.[AuthUpdTim] , T0.[Substt]  FROM  [dbo].[WDD1] T0  WHERE (1 <> 1)  
+B1_5341505F4D5552504859_RW
+SAP Business One
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[ExpnsCode] , T0.[ExpnsName] , T0.[RevAcct] , T0.[ExpnsAcct] , T0.[TaxLiable] , T0.[RevFixSum] , T0.[ExpFixSum] , T0.[DataSource] , T0.[UserSign] , T0.[VatGroupI] , T0.[VatGroupO] , T0.[DistrbMthd] , T0.[In1099] , T0.[ExpOfstAct] , T0.[WTLiable] , T0.[BaseMethod] , T0.[Stock] , T0.[LstPchPrce] , T0.[SalseRpt] , T0.[PchRpt] , T0.[RevExmAcct] , T0.[ExpnsExAct] , T0.[RevRetAct] , T0.[ExpnsType] , T0.[OcrCode] , T0.[TaxDisMthd] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[OcrCodeX] , T0.[LogInstanc] , T0.[UpdateDate] , T0.[UserSign2] , T0.[Project] , T0.[Intrastat] , T0.[GrsFreight] , T0.[SacCode] , T0.[FreighType] , T0.[DataVers] , T0.[DocFreight] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[IsActive] , T0.[U_CXS_MDFD]  FROM [dbo].[OEXD] T0 WHERE T0.[IsActive] = (@P1)  >
+nvarchar(max)
+@P1 char(1)
+sp_prepexec
+nvarchar(max)
+nvarchar(max)
+SELECT T0.[ObjectCode] , T0.[Series] , T0.[SeriesName] , T0.[InitialNum] , T0.[NextNumber] , T0.[LastNum] , T0.[BeginStr] , T0.[EndStr] , T0.[Remark] , T0.[GroupCode] , T0.[Locked] , T0.[YearTransf] , T0.[Indicator] , T0.[Template] , T0.[NumSize] , T0.[FolioPref] , T0.[NextFolio] , T0.[DocSubType] , T0.[DefESeries] , T0.[IsDigSerie] , T0.[SeriesType] , T0.[IsManual] , T0.[BPLId] , T0.[IsForCncl] , T0.[AtDocType] , T0.[IsElAuth] , T0.[CoAccount] , T0.[GenPassprt] , T0.[UserSign] , T0.[UserSign2] , T0.[CreateDate] , T0.[UpdateDate] , T0.[logInstanc] , T0.[PInvType] , T0.[NInvType] , T0.[AssignedID] , T0.[Action] , T0.[Status] , T0.[Phase]  FROM [dbo].[NNM1] T0 WHERE T0.[Series] = (@P1)  
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=55
+exec sp_prepexec @p1 output,N'@P1 int',N'SELECT T0.[ObjectCode] , T0.[Series] , T0.[SeriesName] , T0.[InitialNum] , T0.[NextNumber] , T0.[LastNum] , T0.[BeginStr] , T0.[EndStr] , T0.[Remark] , T0.[GroupCode] , T0.[Locked] , T0.[YearTransf] , T0.[Indicator] , T0.[Template] , T0.[NumSize] , T0.[FolioPref] , T0.[NextFolio] , T0.[DocSubType] , T0.[DefESeries] , T0.[IsDigSerie] , T0.[SeriesType] , T0.[IsManual] , T0.[BPLId] , T0.[IsForCncl] , T0.[AtDocType] , T0.[IsElAuth] , T0.[CoAccount] , T0.[GenPassprt] , T0.[UserSign] , T0.[UserSign2] , T0.[CreateDate] , T0.[UpdateDate] , T0.[logInstanc] , T0.[PInvType] , T0.[NInvType] , T0.[AssignedID] , T0.[Action] , T0.[Status] , T0.[Phase]  FROM [dbo].[NNM1] T0 WHERE T0.[Series] = (@P1)  ',136
+select @p1
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]',N'@P1 int',445884
+SAP Business One
+SELECT T0.[ExpnsCode] , T0.[ExpnsName] , T0.[RevAcct] , T0.[ExpnsAcct] , T0.[TaxLiable] , T0.[RevFixSum] , T0.[ExpFixSum] , T0.[DataSource] , T0.[UserSign] , T0.[VatGroupI] , T0.[VatGroupO] , T0.[DistrbMthd] , T0.[In1099] , T0.[ExpOfstAct] , T0.[WTLiable] , T0.[BaseMethod] , T0.[Stock] , T0.[LstPchPrce] , T0.[SalseRpt] , T0.[PchRpt] , T0.[RevExmAcct] , T0.[ExpnsExAct] , T0.[RevRetAct] , T0.[ExpnsType] , T0.[OcrCode] , T0.[TaxDisMthd] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[OcrCodeX] , T0.[LogInstanc] , T0.[UpdateDate] , T0.[UserSign2] , T0.[Project] , T0.[Intrastat] , T0.[GrsFreight] , T0.[SacCode] , T0.[FreighType] , T0.[DataVers] , T0.[DocFreight] , T0.[ProdctType] , T0.[ProdTypeEx] , T0.[IsActive] , T0.[U_CXS_MDFD]  FROM [dbo].[OEXD] T0
+B1_5341505F4D5552504859_RW
+SAP Business One
+SAP Business One
+sp_prepexec
+nvarchar(max)F
+@P1 nvarchar(254),@P2 nvarchar(254)
+nvarchar(max)
+SELECT T0.[ItemCode] , T0.[WhsCode] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[Consig] , T0.[Counted] , T0.[WasCounted] , T0.[UserSign] , T0.[MinStock] , T0.[MaxStock] , T0.[MinOrder] , T0.[AvgPrice] , T0.[Locked] , T0.[BalInvntAc] , T0.[SaleCostAc] , T0.[TransferAc] , T0.[RevenuesAc] , T0.[VarianceAc] , T0.[DecreasAc] , T0.[IncreasAc] , T0.[ReturnAc] , T0.[ExpensesAc] , T0.[EURevenuAc] , T0.[EUExpensAc] , T0.[FrRevenuAc] , T0.[FrExpensAc] , T0.[ExmptIncom] , T0.[PriceDifAc] , T0.[ExchangeAc] , T0.[BalanceAcc] , T0.[PurchaseAc] , T0.[PAReturnAc] , T0.[PurchOfsAc] , T0.[ShpdGdsAct] , T0.[VatRevAct] , T0.[StockValue] , T0.[DecresGlAc] , T0.[IncresGlAc] , T0.[StokRvlAct] , T0.[StkOffsAct] , T0.[WipAcct] , T0.[WipVarAcct] , T0.[CostRvlAct] , T0.[CstOffsAct] , T0.[ExpClrAct] , T0.[ExpOfstAct] , T0.[Object] , T0.[logInstanc] , T0.[createDate] , T0.[userSign2] , T0.[updateDate] , T0.[ARCMAct] , T0.[ARCMFrnAct] , T0.[ARCMEUAct] , T0.[ARCMExpAct] , T0.[APCMAct] , T0.[APCMFrnAct] , T0.[APCMEUAct] , T0.[RevRetAct] , T0.[NegStckAct] , T0.[StkInTnAct] , T0.[PurBalAct] , T0.[WhICenAct] , T0.[WhOCenAct] , T0.[WipOffset] , T0.[StockOffst] , T0.[DftBinAbs] , T0.[DftBinEnfd] , T0.[Freezed] , T0.[FreezeDoc] , T0.[FreeChrgSA] , T0.[FreeChrgPU] , T0.[IndEscala] , T0.[CNJPMan] , T0.[U_CXS_TRTP]  FROM [dbo].[OITW] T0 WITH (UPDLOCK) WHERE T0.[ItemCode] = (@P1)  AND  T0.[WhsCode] = (@P2)  :
+nvarchar(254)
+BF02335CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=56
+exec sp_prepexec @p1 output,N'@P1 nvarchar(254),@P2 nvarchar(254)',N'SELECT T0.[ItemCode] , T0.[WhsCode] , T0.[OnHand] , T0.[IsCommited] , T0.[OnOrder] , T0.[Consig] , T0.[Counted] , T0.[WasCounted] , T0.[UserSign] , T0.[MinStock] , T0.[MaxStock] , T0.[MinOrder] , T0.[AvgPrice] , T0.[Locked] , T0.[BalInvntAc] , T0.[SaleCostAc] , T0.[TransferAc] , T0.[RevenuesAc] , T0.[VarianceAc] , T0.[DecreasAc] , T0.[IncreasAc] , T0.[ReturnAc] , T0.[ExpensesAc] , T0.[EURevenuAc] , T0.[EUExpensAc] , T0.[FrRevenuAc] , T0.[FrExpensAc] , T0.[ExmptIncom] , T0.[PriceDifAc] , T0.[ExchangeAc] , T0.[BalanceAcc] , T0.[PurchaseAc] , T0.[PAReturnAc] , T0.[PurchOfsAc] , T0.[ShpdGdsAct] , T0.[VatRevAct] , T0.[StockValue] , T0.[DecresGlAc] , T0.[IncresGlAc] , T0.[StokRvlAct] , T0.[StkOffsAct] , T0.[WipAcct] , T0.[WipVarAcct] , T0.[CostRvlAct] , T0.[CstOffsAct] , T0.[ExpClrAct] , T0.[ExpOfstAct] , T0.[Object] , T0.[logInstanc] , T0.[createDate] , T0.[userSign2] , T0.[updateDate] , T0.[ARCMAct] , T0.[ARCMFrnAct] , T0.[ARCMEUAct] , T0.[ARCMExpAct] , T0.[APCMAct] , T0.[APCMFrnAct] , T0.[APCMEUAct] , T0.[RevRetAct] , T0.[NegStckAct] , T0.[StkInTnAct] , T0.[PurBalAct] , T0.[WhICenAct] , T0.[WhOCenAct] , T0.[WipOffset] , T0.[StockOffst] , T0.[DftBinAbs] , T0.[DftBinEnfd] , T0.[Freezed] , T0.[FreezeDoc] , T0.[FreeChrgSA] , T0.[FreeChrgPU] , T0.[IndEscala] , T0.[CNJPMan] , T0.[U_CXS_TRTP]  FROM [dbo].[OITW] T0 WITH (UPDLOCK) WHERE T0.[ItemCode] = (@P1)  AND  T0.[WhsCode] = (@P2)  ',N'BF02335CU',N'GEN'
+select @p1
+SAP Business One
+sp_execute
+nvarchar(254)
+MD03208.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 56,N'MD03208',N'GEN'
+SAP Business One
+sp_execute
+B1_5341505F4D5552504859_RW
+exec sp_execute 46,377
+SAP Business One
+sp_prepexec
+nvarchar(max)
+nvarchar(max)
+SELECT T0.[Code] , T0.[ShortName] , T0.[Name] , T0.[SysLang] , T0.[Locked] , T0.[DataSource] , T0.[UserSign]  FROM [dbo].[OLNG] T0 WHERE T0.[Code] = (@P1)  
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=58
+exec sp_prepexec @p1 output,N'@P1 int',N'SELECT T0.[Code] , T0.[ShortName] , T0.[Name] , T0.[SysLang] , T0.[Locked] , T0.[DataSource] , T0.[UserSign]  FROM [dbo].[OLNG] T0 WHERE T0.[Code] = (@P1)  ',8
+select @p1
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT COUNT('A')  FROM [dbo].[OSHP] T0 WHERE T0.[TrnspCode] = (@P1)  @
+nvarchar(max)
+@P1 smallint
+4smallint
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT COUNT(''A'')  FROM [dbo].[OSHP] T0 WHERE T0.[TrnspCode] = (@P1)  ',N'@P1 smallint',6
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[WhsCode], T0.[WhsName] FROM  [dbo].[OWHS] T0  WHERE T0.[Inactive] = (@P1)  AND  T0.[WhsCode] IN(@P2)    ORDER BY T0.[WhsCode]b
+nvarchar(max):
+@P1 char(1),@P2 nvarchar(254)
+sp_prepexec
+nvarchar(max)"
+@P1 nvarchar(254)
+nvarchar(max)
+SELECT T0.[WhsCode] , T0.[WhsName] , T0.[IntrnalKey] , T0.[Grp_Code] , T0.[BalInvntAc] , T0.[SaleCostAc] , T0.[TransferAc] , T0.[Locked] , T0.[DataSource] , T0.[UserSign] , T0.[RevenuesAc] , T0.[VarianceAc] , T0.[DecreasAc] , T0.[IncreasAc] , T0.[ReturnAc] , T0.[ExpensesAc] , T0.[EURevenuAc] , T0.[EUExpensAc] , T0.[FrRevenuAc] , T0.[FrExpensAc] , T0.[VatGroup] , T0.[Street] , T0.[Block] , T0.[ZipCode] , T0.[City] , T0.[County] , T0.[Country] , T0.[State] , T0.[Location] , T0.[DropShip] , T0.[ExmptIncom] , T0.[UseTax] , T0.[PriceDifAc] , T0.[ExchangeAc] , T0.[BalanceAcc] , T0.[PurchaseAc] , T0.[PAReturnAc] , T0.[PurchOfsAc] , T0.[FedTaxID] , T0.[Building] , T0.[ShpdGdsAct] , T0.[VatRevAct] , T0.[DecresGlAc] , T0.[IncresGlAc] , T0.[Nettable] , T0.[StokRvlAct] , T0.[StkOffsAct] , T0.[WipAcct] , T0.[WipVarAcct] , T0.[CostRvlAct] , T0.[CstOffsAct] , T0.[ExpClrAct] , T0.[ExpOfstAct] , T0.[objType] , T0.[logInstanc] , T0.[createDate] , T0.[userSign2] , T0.[updateDate] , T0.[ARCMAct] , T0.[ARCMFrnAct] , T0.[ARCMEUAct] , T0.[ARCMExpAct] , T0.[APCMAct] , T0.[APCMFrnAct] , T0.[APCMEUAct] , T0.[RevRetAct] , T0.[BPLid] , T0.[OwnerCode] , T0.[NegStckAct] , T0.[StkInTnAct] , T0.[AddrType] , T0.[StreetNo] , T0.[PurBalAct] , T0.[Excisable] , T0.[WhICenAct] , T0.[WhOCenAct] , T0.[WhShipTo] , T0.[WipOffset] , T0.[StockOffst] , T0.[StorKeeper] , T0.[Shipper] , T0.[BinActivat] , T0.[BinSeptor] , T0.[DftBinAbs] , T0.[DftBinEnfd] , T0.[AutoIssMtd] , T0.[ManageSnB] , T0.[RecItemsBy] , T0.[RecBinEnab] , T0.[GlblLocNum] , T0.[RecvEmpBin] , T0.[Inactive] , T0.[RecvMaxQty] , T0.[AutoRecvMd] , T0.[RecvMaxWT] , T0.[RecvUpTo] , T0.[FreeChrgSA] , T0.[FreeChrgPU] , T0.[TaxOffice] , T0.[Address2] , T0.[Address3] , T0.[External] , T0.[LegalText] , T0.[U_CXS_STID] , T0.[U_CXS_STRE] , T0.[U_CXS_CACT] , T0.[U_CXS_HID] , T0.[U_CXS_INST] , T0.[U_CXS_ISID] , T0.[U_CXS_STAC] , T0.[U_CXS_STFC] , T0.[U_CXS_PCCD] , T0.[U_CXS_PRCD] , T0.[U_CXS_PLCD] , T0.[U_CXS_POIC] , T0.[U_CXS_STTP] , T0.[U_CXS_IPCA] , T0.[U_CXS_FCAC] , T0.[U_CXS_FCFC] , T0.[U_CXS_CRAC] , T0.[U_CXS_CRFC] , T0.[U_CXS_BNCD] , T0.[U_CXS_CONT] , T0.[U_CXS_COCD] , T0.[U_CXS_BRCD] , T0.[U_CXS_ACNO] , T0.[U_CXS_TVAC] , T0.[U_CXS_TVHD] , T0.[U_CXS_ECOM] , T0.[U_TRC_LS_INC] , T0.[U_TRC_STOCK_CHECK]  FROM [dbo].[OWHS] T0 WHERE T0.[WhsCode] = (@P1)  .
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=59
+exec sp_prepexec @p1 output,N'@P1 nvarchar(254)',N'SELECT T0.[WhsCode] , T0.[WhsName] , T0.[IntrnalKey] , T0.[Grp_Code] , T0.[BalInvntAc] , T0.[SaleCostAc] , T0.[TransferAc] , T0.[Locked] , T0.[DataSource] , T0.[UserSign] , T0.[RevenuesAc] , T0.[VarianceAc] , T0.[DecreasAc] , T0.[IncreasAc] , T0.[ReturnAc] , T0.[ExpensesAc] , T0.[EURevenuAc] , T0.[EUExpensAc] , T0.[FrRevenuAc] , T0.[FrExpensAc] , T0.[VatGroup] , T0.[Street] , T0.[Block] , T0.[ZipCode] , T0.[City] , T0.[County] , T0.[Country] , T0.[State] , T0.[Location] , T0.[DropShip] , T0.[ExmptIncom] , T0.[UseTax] , T0.[PriceDifAc] , T0.[ExchangeAc] , T0.[BalanceAcc] , T0.[PurchaseAc] , T0.[PAReturnAc] , T0.[PurchOfsAc] , T0.[FedTaxID] , T0.[Building] , T0.[ShpdGdsAct] , T0.[VatRevAct] , T0.[DecresGlAc] , T0.[IncresGlAc] , T0.[Nettable] , T0.[StokRvlAct] , T0.[StkOffsAct] , T0.[WipAcct] , T0.[WipVarAcct] , T0.[CostRvlAct] , T0.[CstOffsAct] , T0.[ExpClrAct] , T0.[ExpOfstAct] , T0.[objType] , T0.[logInstanc] , T0.[createDate] , T0.[userSign2] , T0.[updateDate] , T0.[ARCMAct] , T0.[ARCMFrnAct] , T0.[ARCMEUAct] , T0.[ARCMExpAct] , T0.[APCMAct] , T0.[APCMFrnAct] , T0.[APCMEUAct] , T0.[RevRetAct] , T0.[BPLid] , T0.[OwnerCode] , T0.[NegStckAct] , T0.[StkInTnAct] , T0.[AddrType] , T0.[StreetNo] , T0.[PurBalAct] , T0.[Excisable] , T0.[WhICenAct] , T0.[WhOCenAct] , T0.[WhShipTo] , T0.[WipOffset] , T0.[StockOffst] , T0.[StorKeeper] , T0.[Shipper] , T0.[BinActivat] , T0.[BinSeptor] , T0.[DftBinAbs] , T0.[DftBinEnfd] , T0.[AutoIssMtd] , T0.[ManageSnB] , T0.[RecItemsBy] , T0.[RecBinEnab] , T0.[GlblLocNum] , T0.[RecvEmpBin] , T0.[Inactive] , T0.[RecvMaxQty] , T0.[AutoRecvMd] , T0.[RecvMaxWT] , T0.[RecvUpTo] , T0.[FreeChrgSA] , T0.[FreeChrgPU] , T0.[TaxOffice] , T0.[Address2] , T0.[Address3] , T0.[External] , T0.[LegalText] , T0.[U_CXS_STID] , T0.[U_CXS_STRE] , T0.[U_CXS_CACT] , T0.[U_CXS_HID] , T0.[U_CXS_INST] , T0.[U_CXS_ISID] , T0.[U_CXS_STAC] , T0.[U_CXS_STFC] , T0.[U_CXS_PCCD] , T0.[U_CXS_PRCD] , T0.[U_CXS_PLCD] , T0.[U_CXS_POIC] , T0.[U_CXS_STTP] , T0.[U_CXS_IPCA] , T0.[U_CXS_FCAC] , T0.[U_CXS_FCFC] , T0.[U_CXS_CRAC] , T0.[U_CXS_CRFC] , T0.[U_CXS_BNCD] , T0.[U_CXS_CONT] , T0.[U_CXS_COCD] , T0.[U_CXS_BRCD] , T0.[U_CXS_ACNO] , T0.[U_CXS_TVAC] , T0.[U_CXS_TVHD] , T0.[U_CXS_ECOM] , T0.[U_TRC_LS_INC] , T0.[U_TRC_STOCK_CHECK]  FROM [dbo].[OWHS] T0 WHERE T0.[WhsCode] = (@P1)  ',N'GEN'
+select @p1
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[Code] , T0.[Name] , T0.[AddrFormat] , T0.[UserSign] , T0.[IsEC] , T0.[ReportCode] , T0.[TaxIdDigts] , T0.[BnkCodDgts] , T0.[BnkBchDgts] , T0.[BnkActDgts] , T0.[BnkCtKDgts] , T0.[ValDomAcct] , T0.[ValIban] , T0.[IsBlackLst] , T0.[UICCode] , T0.[CntCodNum] , T0.[Siscomex] , T0.[IsIntraS] , T0.[EAEU] , T0.[ISO2Code] , T0.[ISO3Code] , T0.[ISONumeric]  FROM [dbo].[OCRY] T0 WHERE T0.[Code] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254),
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[Code] , T0.[Name] , T0.[AddrFormat] , T0.[UserSign] , T0.[IsEC] , T0.[ReportCode] , T0.[TaxIdDigts] , T0.[BnkCodDgts] , T0.[BnkBchDgts] , T0.[BnkActDgts] , T0.[BnkCtKDgts] , T0.[ValDomAcct] , T0.[ValIban] , T0.[IsBlackLst] , T0.[UICCode] , T0.[CntCodNum] , T0.[Siscomex] , T0.[IsIntraS] , T0.[EAEU] , T0.[ISO2Code] , T0.[ISO3Code] , T0.[ISONumeric]  FROM [dbo].[OCRY] T0 WHERE T0.[Code] = (@P1)  ',N'@P1 nvarchar(254)',N'IE'
+SAP Business One
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[InstlmntID] FROM  [dbo].[RDR6] T0  WHERE T0.[DocEntry] = (@P1)  AND  T0.[Ordered] = (@P2)  ',N'@P1 int,@P2 char(1)',445884,'Y'
+SAP Business One
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[TrnspCode] , T0.[TrnspName] , T0.[DataSource] , T0.[UserSign] , T0.[WebSite] , T0.[Active] , T0.[U_CXS_MDFD] , T0.[U_DfltUnitCapacity] , T0.[U_CapValid] , T0.[U_FreeTruck] , T0.[U_iSAPRoute]  FROM  [dbo].[OSHP] T0  WHERE T0.[Active] = (@P1)  ',N'@P1 char(1)','N'
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254)0
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  ',N'@P1 nvarchar(254)',N'RDR1'
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254)0
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  ',N'@P1 nvarchar(254)',N'RDR6'
+SAP Business One
+sp_prepexec
+nvarchar(max)
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[DocEntry],T0.[LineNum]
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=60
+exec sp_prepexec @p1 output,N'@P1 int',N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[DocEntry],T0.[LineNum]',445884
+select @p1
+SAP Business One
+sp_execute
+4smallint
+B1_5341505F4D5552504859_RW
+exec sp_execute 44,-1
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[LineNum]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[LineNum]',N'@P1 int',445884
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT COUNT('A')  FROM [dbo].[RDR20] T0 WHERE T0.[DocEntry] = (@P1)  6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT COUNT(''A'')  FROM [dbo].[RDR20] T0 WHERE T0.[DocEntry] = (@P1)  ',N'@P1 int',445884
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]',N'@P1 int',445884
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE T0.[DocEntry] = (@P1)   ORDER BY T0.[VisOrder],T0.[LineNum]',N'@P1 int',445884
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[AbsId] , T0.[Name] , T0.[BaseId] , T0.[InitRate] , T0.[Locked] , T0.[FinancYear] , T0.[IsMain] , T0.[DataSource] , T0.[RoundSys] , T0.[UserSign] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[PrjCode]  FROM [dbo].[OBGS] T0 WHERE T0.[FinancYear] = (@P1)  AND  T0.[IsMain] = (@P2)   ORDER BY T0.[FinancYear],T0.[IsMain] DESC,T0.[AbsId]Z
+nvarchar(max)2
+@P1 datetime2,@P2 char(1)2
+*datetime2(0)
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] FROM  [dbo].[OILM] T0  WHERE T0.[TransType] = (@P1)  AND  T0.[DocEntry] = (@P2)  AND  T0.[DocLineNum] = (@P3)  AND  T0.[SubLineNum] = (@P4)  AND  T0.[AccumType] = (@P5)  AND  T0.[MessageID] <> (@P6)  
+nvarchar(max)^
+@P1 int,@P2 int,@P3 int,@P4 int,@P5 int,@P6 int
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] FROM  [dbo].[OILM] T0  WHERE T0.[TransType] = (@P1)  AND  T0.[DocEntry] = (@P2)  AND  T0.[DocLineNum] = (@P3)  AND  T0.[SubLineNum] = (@P4)  AND  T0.[AccumType] = (@P5)  AND  T0.[MessageID] <> (@P6)  ',N'@P1 int,@P2 int,@P3 int,@P4 int,@P5 int,@P6 int',17,445884,0,-1,2,0
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[ItemCode] , T0.[SysNumber] , T0.[Quantity] , T0.[MdAbsEntry]  FROM  [dbo].[ILM1] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[ItemCode],T0.[SysNumber]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[ItemCode] , T0.[SysNumber] , T0.[Quantity] , T0.[MdAbsEntry]  FROM  [dbo].[ILM1] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[ItemCode],T0.[SysNumber]',N'@P1 int',9636386
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[LineID] , T0.[POLine] , T0.[ItemType] , T0.[ItemCode] , T0.[LocType] , T0.[LocCode] , T0.[Quantity] , T0.[TotalLC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseLine] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[ILM3] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[LineID]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[LineID] , T0.[POLine] , T0.[ItemType] , T0.[ItemCode] , T0.[LocType] , T0.[LocCode] , T0.[Quantity] , T0.[TotalLC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseLine] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[ILM3] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[LineID]',N'@P1 int',9636386
+SAP Business One
+sp_executesql
+nvarchar(max)
+DELETE T0 FROM [dbo].[ILM1] T0 WHERE ((T0.[MessageID] = (@P1) )) 6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[ILM1] T0 WHERE ((T0.[MessageID] = (@P1) )) ',N'@P1 int',9636386
+SAP Business One
+sp_executesql
+nvarchar(max)
+DELETE T0 FROM [dbo].[ILM3] T0 WHERE ((T0.[MessageID] = (@P1) )) 6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[ILM3] T0 WHERE ((T0.[MessageID] = (@P1) )) ',N'@P1 int',9636386
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[DocEntry] , T0.[TransType] , T0.[DocLineNum] , T0.[Quantity] , T0.[EffectQty] , T0.[LocType] , T0.[LocCode] , T0.[TotalLC] , T0.[TotalFC] , T0.[TotalSC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseCurr] , T0.[Currency] , T0.[AccumType] , T0.[ActionType] , T0.[ExpensesLC] , T0.[ExpensesFC] , T0.[ExpensesSC] , T0.[DocDueDate] , T0.[ItemCode] , T0.[BPCardCode] , T0.[DocDate] , T0.[DocRate] , T0.[Comment] , T0.[JrnlMemo] , T0.[Ref1] , T0.[Ref2] , T0.[BaseLine] , T0.[SnBType] , T0.[CreateTime] , T0.[DataSource] , T0.[CreateDate] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[DocPrice] , T0.[CardName] , T0.[Dscription] , T0.[TreeType] , T0.[ApplObj] , T0.[AppObjAbs] , T0.[AppObjType] , T0.[AppObjLine] , T0.[BASE_REF] , T0.[TransSeqRf] , T0.[LayerIDRef] , T0.[VersionNum] , T0.[PriceRate] , T0.[PriceCurr] , T0.[DocTotal] , T0.[Price] , T0.[CIShbQty] , T0.[SubLineNum] , T0.[PrjCode] , T0.[SlpCode] , T0.[TaxDate] , T0.[UseDocPric] , T0.[VendorNum] , T0.[SerialNum] , T0.[BlockNum] , T0.[ImportLog] , T0.[Location] , T0.[DocPrcRate] , T0.[DocPrcCurr] , T0.[CgsOcrCod] , T0.[CgsOcrCod2] , T0.[CgsOcrCod3] , T0.[CgsOcrCod4] , T0.[CgsOcrCod5] , T0.[BSubLineNo] , T0.[AppSubLine] , T0.[UserSign] , T0.[SysRate] , T0.[ExFromRpt] , T0.[Ref3] , T0.[EnSetCost] , T0.[RetCost] , T0.[DocAction] , T0.[UseShpdGd] , T0.[AddTotalLC] , T0.[AddExpLC] , T0.[IsNegLnQty] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[OILM] T0  WHERE T0.[MessageID] = (@P1)   ORDER BY T0.[MessageID]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[DocEntry] , T0.[TransType] , T0.[DocLineNum] , T0.[Quantity] , T0.[EffectQty] , T0.[LocType] , T0.[LocCode] , T0.[TotalLC] , T0.[TotalFC] , T0.[TotalSC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseCurr] , T0.[Currency] , T0.[AccumType] , T0.[ActionType] , T0.[ExpensesLC] , T0.[ExpensesFC] , T0.[ExpensesSC] , T0.[DocDueDate] , T0.[ItemCode] , T0.[BPCardCode] , T0.[DocDate] , T0.[DocRate] , T0.[Comment] , T0.[JrnlMemo] , T0.[Ref1] , T0.[Ref2] , T0.[BaseLine] , T0.[SnBType] , T0.[CreateTime] , T0.[DataSource] , T0.[CreateDate] , T0.[OcrCode] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[DocPrice] , T0.[CardName] , T0.[Dscription] , T0.[TreeType] , T0.[ApplObj] , T0.[AppObjAbs] , T0.[AppObjType] , T0.[AppObjLine] , T0.[BASE_REF] , T0.[TransSeqRf] , T0.[LayerIDRef] , T0.[VersionNum] , T0.[PriceRate] , T0.[PriceCurr] , T0.[DocTotal] , T0.[Price] , T0.[CIShbQty] , T0.[SubLineNum] , T0.[PrjCode] , T0.[SlpCode] , T0.[TaxDate] , T0.[UseDocPric] , T0.[VendorNum] , T0.[SerialNum] , T0.[BlockNum] , T0.[ImportLog] , T0.[Location] , T0.[DocPrcRate] , T0.[DocPrcCurr] , T0.[CgsOcrCod] , T0.[CgsOcrCod2] , T0.[CgsOcrCod3] , T0.[CgsOcrCod4] , T0.[CgsOcrCod5] , T0.[BSubLineNo] , T0.[AppSubLine] , T0.[UserSign] , T0.[SysRate] , T0.[ExFromRpt] , T0.[Ref3] , T0.[EnSetCost] , T0.[RetCost] , T0.[DocAction] , T0.[UseShpdGd] , T0.[AddTotalLC] , T0.[AddExpLC] , T0.[IsNegLnQty] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[OILM] T0  WHERE T0.[MessageID] = (@P1)   ORDER BY T0.[MessageID]',N'@P1 int',9636387
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[AccountId] , T0.[AcctCode] , T0.[DebitCredi]  FROM  [dbo].[ILM2] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[AccountId],T0.[DebitCredi]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[AccountId] , T0.[AcctCode] , T0.[DebitCredi]  FROM  [dbo].[ILM2] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[AccountId],T0.[DebitCredi]',N'@P1 int',9636387
+SAP Business One
+sp_executesql
+nvarchar(max)
+UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P2)  n
+nvarchar(max)F
+@P1 numeric(25,6),@P2 nvarchar(254)7
+lnumeric(25,6)
+sp_executesql
+nvarchar(max)
+UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITW] T0 WHERE T0.[ItemCode] = (@P2)  AND  T0.[WhsCode] = (@P3)  
+nvarchar(max)j
+@P1 numeric(25,6),@P2 nvarchar(254),@P3 nvarchar(254)7
+lnumeric(25,6)
+sp_executesql
+nvarchar(max)z
+DELETE T0 FROM [dbo].[OILM] T0 WHERE T0.[MessageID] = (@P1)  6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[OILM] T0 WHERE T0.[MessageID] = (@P1)  ',N'@P1 int',9636387
+SAP Business One
+sp_executesql
+nvarchar(max)
+DELETE T0 FROM [dbo].[ILM2] T0 WHERE ((T0.[MessageID] = (@P1) )) 6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[ILM2] T0 WHERE ((T0.[MessageID] = (@P1) )) ',N'@P1 int',9636387
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] FROM  [dbo].[OILM] T0  WHERE T0.[TransType] = (@P1)  AND  T0.[DocEntry] = (@P2)  AND  T0.[DocLineNum] = (@P3)  AND  T0.[SubLineNum] = (@P4)  AND  T0.[AccumType] = (@P5)  AND  T0.[MessageID] <> (@P6)  
+nvarchar(max)^
+@P1 int,@P2 int,@P3 int,@P4 int,@P5 int,@P6 int
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] FROM  [dbo].[OILM] T0  WHERE T0.[TransType] = (@P1)  AND  T0.[DocEntry] = (@P2)  AND  T0.[DocLineNum] = (@P3)  AND  T0.[SubLineNum] = (@P4)  AND  T0.[AccumType] = (@P5)  AND  T0.[MessageID] <> (@P6)  ',N'@P1 int,@P2 int,@P3 int,@P4 int,@P5 int,@P6 int',17,445884,2,-1,2,0
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[ItemCode] , T0.[SysNumber] , T0.[Quantity] , T0.[MdAbsEntry]  FROM  [dbo].[ILM1] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[ItemCode],T0.[SysNumber]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[ItemCode] , T0.[SysNumber] , T0.[Quantity] , T0.[MdAbsEntry]  FROM  [dbo].[ILM1] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[ItemCode],T0.[SysNumber]',N'@P1 int',9636388
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[MessageID] , T0.[LineID] , T0.[POLine] , T0.[ItemType] , T0.[ItemCode] , T0.[LocType] , T0.[LocCode] , T0.[Quantity] , T0.[TotalLC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseLine] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[ILM3] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[LineID]6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[MessageID] , T0.[LineID] , T0.[POLine] , T0.[ItemType] , T0.[ItemCode] , T0.[LocType] , T0.[LocCode] , T0.[Quantity] , T0.[TotalLC] , T0.[BaseAbsEnt] , T0.[BaseType] , T0.[BaseLine] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc]  FROM  [dbo].[ILM3] T0  WHERE ((T0.[MessageID] = (@P1) ))  ORDER BY T0.[MessageID],T0.[LineID]',N'@P1 int',9636388
+SAP Business One
+nvarchar(254)
+MD01934CU
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P2)  ',N'@P1 numeric(25,6),@P2 nvarchar(254)',5.000000,N'MD01934CU'
+SAP Business One
+nvarchar(254)
+MD01934CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITW] T0 WHERE T0.[ItemCode] = (@P2)  AND  T0.[WhsCode] = (@P3)  ',N'@P1 numeric(25,6),@P2 nvarchar(254),@P3 nvarchar(254)',4.000000,N'MD01934CU',N'GEN'
+SAP Business One
+sp_executesql
+nvarchar(max)
+DELETE T0 FROM [dbo].[ILM1] T0 WHERE ((T0.[MessageID] = (@P1) )) 6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[ILM1] T0 WHERE ((T0.[MessageID] = (@P1) )) ',N'@P1 int',9636388
+SAP Business One
+sp_executesql
+nvarchar(max)
+DELETE T0 FROM [dbo].[ILM3] T0 WHERE ((T0.[MessageID] = (@P1) )) 6
+nvarchar(max)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'DELETE T0 FROM [dbo].[ILM3] T0 WHERE ((T0.[MessageID] = (@P1) )) ',N'@P1 int',9636388
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT COUNT(T0.[ObjectCode]) FROM  [dbo].[ONNM] T0  WITH (NOLOCK) WHERE T0.[ObjectCode] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254)8
+nvarchar(254)
+10000048
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT COUNT(T0.[ObjectCode]) FROM  [dbo].[ONNM] T0  WITH (NOLOCK) WHERE T0.[ObjectCode] = (@P1)  ',N'@P1 nvarchar(254)',N'10000048'
+SAP Business One
+sp_prepexec
+nvarchar(max)"
+@P1 nvarchar(254)
+nvarchar(max)
+SELECT T0.[Code] , T0.[Computer]  FROM [dbo].[CSTN] T0 WHERE T0.[Computer] = (@P1)  :
+nvarchar(254)
+DEVSERVER
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=64
+exec sp_prepexec @p1 output,N'@P1 nvarchar(254)',N'SELECT T0.[Code] , T0.[Computer]  FROM [dbo].[CSTN] T0 WHERE T0.[Computer] = (@P1)  ',N'DEVSERVER'
+select @p1
+SAP Business One
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254).
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)$
+ORDER-50033410-AIR6
+nvarchar(254)
+5054686$
+nvarchar(254)
+4smallint
+nvarchar(254)
+*datetime2(0)
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)7
+lnumeric(25,6)
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)
+4smallint
+lnumeric(25,6)
+nvarchar(254)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+declare @p1 int
+set @p1=65
+exec sp_prepexec @p1 output,N'@P1 int,@P2 int,@P3 int,@P4 int,@P5 numeric(25,6),@P6 numeric(25,6),@P7 smallint,@P8 nvarchar(254),@P9 numeric(25,6),@P10 numeric(25,6),@P11 numeric(25,6),@P12 int,@P13 int,@P14 nvarchar(254),@P15 nvarchar(254),@P16 int,@P17 int,@P18 numeric(25,6),@P19 numeric(25,6),@P20 numeric(25,6),@P21 datetime2,@P22 nvarchar(254),@P23 nvarchar(254),@P24 datetime2,@P25 numeric(25,6),@P26 nvarchar(254),@P27 nvarchar(254),@P28 nvarchar(254),@P29 nvarchar(254),@P30 int,@P31 int,@P32 smallint,@P33 nvarchar(254),@P34 datetime2,@P35 nvarchar(254),@P36 nvarchar(254),@P37 nvarchar(254),@P38 nvarchar(254),@P39 nvarchar(254),@P40 numeric(25,6),@P41 nvarchar(254),@P42 nvarchar(254),@P43 nvarchar(254),@P44 int,@P45 int,@P46 nvarchar(254),@P47 int,@P48 nvarchar(254),@P49 int,@P50 int,@P51 nvarchar(254),@P52 numeric(25,6),@P53 nvarchar(254),@P54 numeric(25,6),@P55 numeric(25,6),@P56 numeric(25,6),@P57 int,@P58 nvarchar(254),@P59 int,@P60 datetime2,@P61 nvarchar(254),@P62 nvarchar(254),@P63 nvarchar(254),@P64 nvarchar(254),@P65 nvarchar(254),@P66 int,@P67 numeric(25,6),@P68 nvarchar(254),@P69 nvarchar(254),@P70 nvarchar(254),@P71 nvarchar(254),@P72 nvarchar(254),@P73 nvarchar(254),@P74 int,@P75 int,@P76 smallint,@P77 numeric(25,6),@P78 nvarchar(254),@P79 nvarchar(254),@P80 nvarchar(254),@P81 numeric(25,6),@P82 int,@P83 nvarchar(254),@P84 numeric(25,6),@P85 numeric(25,6),@P86 nvarchar(254),@P87 int,@P88 int,@P89 nvarchar(254)',N'Insert into [dbo].[OILM]([MessageID],[DocEntry],[TransType],[DocLineNum],[Quantity],[EffectQty],[LocType],[LocCode],[TotalLC],[TotalFC],[TotalSC],[BaseAbsEnt],[BaseType],[BaseCurr],[Currency],[AccumType],[ActionType],[ExpensesLC],[ExpensesFC],[ExpensesSC],[DocDueDate],[ItemCode],[BPCardCode],[DocDate],[DocRate],[Comment],[JrnlMemo],[Ref1],[Ref2],[BaseLine],[SnBType],[CreateTime],[DataSource],[CreateDate],[OcrCode],[OcrCode2],[OcrCode3],[OcrCode4],[OcrCode5],[DocPrice],[CardName],[Dscription],[TreeType],[ApplObj],[AppObjAbs],[AppObjType],[AppObjLine],[BASE_REF],[TransSeqRf],[LayerIDRef],[VersionNum],[PriceRate],[PriceCurr],[DocTotal],[Price],[CIShbQty],[SubLineNum],[PrjCode],[SlpCode],[TaxDate],[UseDocPric],[VendorNum],[SerialNum],[BlockNum],[ImportLog],[Location],[DocPrcRate],[DocPrcCurr],[CgsOcrCod],[CgsOcrCod2],[CgsOcrCod3],[CgsOcrCod4],[CgsOcrCod5],[BSubLineNo],[AppSubLine],[UserSign],[SysRate],[ExFromRpt],[Ref3],[EnSetCost],[RetCost],[DocAction],[UseShpdGd],[AddTotalLC],[AddExpLC],[IsNegLnQty],[StgSeqNum],[StgEntry],[StgDesc]) values( @P1, @P2, @P3, @P4, @P5, @P6, @P7, @P8, @P9, @P10, @P11, @P12, @P13, @P14, @P15, @P16, @P17, @P18, @P19, @P20, @P21, @P22, @P23, @P24, @P25, @P26, @P27, @P28, @P29, @P30, @P31, @P32, @P33, @P34, @P35, @P36, @P37, @P38, @P39, @P40, @P41, @P42, @P43, @P44, @P45, @P46, @P47, @P48, @P49, @P50, @P51, @P52, @P53, @P54, @P55, @P56, @P57, @P58, @P59, @P60, @P61, @P62, @P63, @P64, @P65, @P66, @P67, @P68, @P69, @P70, @P71, @P72, @P73, @P74, @P75, @P76, @P77, @P78, @P79, @P80, @P81, @P82, @P83, @P84, @P85, @P86, @P87, @P88, @P89)',9639856,445884,17,0,1.000000,1.000000,64,N'GEN',0,0,0,NULL,-1,NULL,N'EUR',2,1,0,0,0,'2026-06-25 00:00:00',N'BF02335CU',N'AIR-C0030276','2026-05-23 00:00:00',1.000000,N'2',N'ORDER-50033410-AIR',N'5054686',NULL,-1,10000045,1442,N'N','2026-06-08 00:00:00',NULL,NULL,NULL,NULL,NULL,234.960000,N'Guinan Patricia and Patrick',N'Vision Emerald 5'' Headboard 4 Row -Herbi Cool Silver',N'N',-1,-1,NULL,-1,N'5054686',-1,-1,N'10.00.300.20',0,N'EUR',234.960000,234.960000,0,-1,N'',377,'2026-05-23 00:00:00',N'N',NULL,NULL,NULL,NULL,6,0,N'EUR',NULL,NULL,NULL,NULL,NULL,-1,-1,1,1.000000,N'N',NULL,N'N',0,1,N'N',0,0,N'N',0,0,NULL
+select @p1
+SAP Business One
+sp_executesql
+nvarchar(max)
+UPDATE T0 SET T0.[AutoKey] = @P1  FROM [dbo].[ONNM] T0 WHERE T0.[ObjectCode] = (@P2)  AND  T0.[DocSubType] = (@P3)  ~
+nvarchar(max)V
+@P1 int,@P2 nvarchar(254),@P3 nvarchar(254)
+nvarchar(254)
+10000048,
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[AutoKey] = @P1  FROM [dbo].[ONNM] T0 WHERE T0.[ObjectCode] = (@P2)  AND  T0.[DocSubType] = (@P3)  ',N'@P1 int,@P2 nvarchar(254),@P3 nvarchar(254)',9639857,N'10000048',N'--'
+SAP Business One
+sp_execute
+lnumeric(25,6)
+4smallint@.
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+lnumeric(25,6)
+*datetime2(0)
+nvarchar(254)
+MD01934CU@
+nvarchar(254)
+AIR-C00302762
+*datetime2(0)
+lnumeric(25,6)
+nvarchar(254)6
+Guinan Patricia and Patrick
+nvarchar(254)l
+Respa Ottoman Full Opening 5' Divan -Herbi Cool Silver*
+nvarchar(254)
+nvarchar(254)
+nvarchar(254)
+nvarchar(254)
+10.00.300.207
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254)
+*datetime2(0)
+nvarchar(254)
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)*
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+sp_executesql
+nvarchar(max)
+SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254)0
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[TableID] , T0.[FieldID] , T0.[AliasID] , T0.[Descr] , T0.[TypeID] , T0.[EditType] , T0.[SizeID] , T0.[EditSize] , T0.[Dflt] , T0.[NotNull] , T0.[IndexID] , T0.[RTable] , T0.[RField] , T0.[Action] , T0.[Sys] , T0.[DfltDate] , T0.[RelUDO] , T0.[ValidRule] , T0.[RelSO] , T0.[RThrdPTab] , T0.[RThrdPFld]  FROM  [dbo].[CUFD] T0  WHERE T0.[TableID] = (@P1)  ',N'@P1 nvarchar(254)',N'OILM'
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT COUNT(T0.[ObjectCode]) FROM  [dbo].[ONNM] T0  WITH (NOLOCK) WHERE T0.[ObjectCode] = (@P1)  J
+nvarchar(max)"
+@P1 nvarchar(254)8
+nvarchar(254)
+10000048
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT COUNT(T0.[ObjectCode]) FROM  [dbo].[ONNM] T0  WITH (NOLOCK) WHERE T0.[ObjectCode] = (@P1)  ',N'@P1 nvarchar(254)',N'10000048'
+SAP Business One
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254).
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)$
+ORDER-50033410-AIR6
+nvarchar(254)
+5054686$
+nvarchar(254)
+4smallint
+nvarchar(254)
+*datetime2(0)
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)7
+lnumeric(25,6)
+nvarchar(254)
+lnumeric(25,6)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)$
+nvarchar(254)
+4smallint
+lnumeric(25,6)
+nvarchar(254)
+lnumeric(25,6)
+nvarchar(254)
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_execute 65,9639858,445884,17,2,1.000000,1.000000,64,N'GEN',0,0,0,NULL,-1,NULL,N'EUR',2,1,0,0,0,'2026-06-25 00:00:00',N'MD03208',N'AIR-C0030276','2026-05-23 00:00:00',1.000000,N'2',N'ORDER-50033410-AIR',N'5054686',NULL,-1,4,1442,N'N','2026-06-08 00:00:00',NULL,NULL,NULL,NULL,NULL,649.590000,N'Guinan Patricia and Patrick',N'Respa Imperial 1400 King 5'' Mattress',N'N',-1,-1,NULL,-1,N'5054686',-1,-1,N'10.00.300.20',0,N'EUR',649.590000,649.590000,0,-1,N'',377,'2026-05-23 00:00:00',N'N',NULL,NULL,NULL,NULL,6,0,N'EUR',NULL,NULL,NULL,NULL,NULL,-1,-1,1,1.000000,N'N',NULL,N'N',0,1,N'N',0,0,N'N',0,0,NULL
+SAP Business One
+nvarchar(254)
+BF02335CU
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P2)  ',N'@P1 numeric(25,6),@P2 nvarchar(254)',1.000000,N'BF02335CU'
+SAP Business One
+nvarchar(254)
+BF02335CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITW] T0 WHERE T0.[ItemCode] = (@P2)  AND  T0.[WhsCode] = (@P3)  ',N'@P1 numeric(25,6),@P2 nvarchar(254),@P3 nvarchar(254)',1.000000,N'BF02335CU',N'GEN'
+SAP Business One
+nvarchar(254)
+MD01934CU
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITM] T0 WHERE T0.[ItemCode] = (@P2)  ',N'@P1 numeric(25,6),@P2 nvarchar(254)',6.000000,N'MD01934CU'
+SAP Business One
+nvarchar(254)
+MD01934CU.
+nvarchar(254)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'UPDATE T0 SET T0.[IsCommited] = @P1  FROM [dbo].[OITW] T0 WHERE T0.[ItemCode] = (@P2)  AND  T0.[WhsCode] = (@P3)  ',N'@P1 numeric(25,6),@P2 nvarchar(254),@P3 nvarchar(254)',5.000000,N'MD01934CU',N'GEN'
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[ItemCode], T0.[SysNumber], T0.[DistNumber], T0.[MnfSerial], T0.[LotNumber], T0.[ExpDate], T0.[MnfDate], T0.[InDate], T0.[GrntStart], T0.[GrntExp], T0.[CreateDate], T0.[Location], T0.[Status], T0.[Notes], T0.[DataSource], T0.[UserSign], T0.[Transfered], T0.[Instance], T0.[AbsEntry], T0.[ObjType], T0.[itemName], T0.[LogInstanc], T0.[UserSign2], T0.[UpdateDate], T0.[CostTotal], T0.[Quantity], T0.[QuantOut], T0.[PriceDiff], T0.[Balance], T0.[TrackingNt], T0.[TrackiNtLn], T0.[SumDec], T0.[U_CXS_PRC], T0.[U_CXS_TRKC], T1.[DocLine], T1.[DocSubLine], T1.[LocCode], T1.[Quantity], T2.[ItemCode], T2.[SysNumber], T2.[WhsCode], T2.[Location], T2.[DataSource], T2.[UserSign], T2.[Transfered], T2.[Instance], T2.[AbsEntry], T2.[MdAbsEntry], T2.[ObjType], T2.[LogInstanc], T2.[UserSign2], T2.[UpdateDate] FROM  [dbo].[OBTN] T0  INNER  JOIN [dbo].[B1_SnBOpenQtyViewAlloc] T1  ON  T0.[ItemCode] = T1.[ItemCode]  AND  T0.[SysNumber] = T1.[SysNumber]  AND  T0.[ObjType] = T1.[ManagedBy]    LEFT OUTER  JOIN [dbo].[OBTW] T2  ON  T2.[ItemCode] = T1.[ItemCode]  AND  T2.[SysNumber] = T1.[SysNumber]  AND  T2.[WhsCode] = T1.[LocCode]   WHERE T1.[DocType] = (@P1)  AND  T1.[DocEntry] = (@P2)   ORDER BY T1.[DocLine],T1.[DocSubLine],T0.[AbsEntry],T2.[AbsEntry]F
+nvarchar(max)
+@P1 int,@P2 int
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[ItemCode], T0.[SysNumber], T0.[DistNumber], T0.[MnfSerial], T0.[LotNumber], T0.[ExpDate], T0.[MnfDate], T0.[InDate], T0.[GrntStart], T0.[GrntExp], T0.[CreateDate], T0.[Location], T0.[Status], T0.[Notes], T0.[DataSource], T0.[UserSign], T0.[Transfered], T0.[Instance], T0.[AbsEntry], T0.[ObjType], T0.[itemName], T0.[LogInstanc], T0.[UserSign2], T0.[UpdateDate], T0.[CostTotal], T0.[Quantity], T0.[QuantOut], T0.[PriceDiff], T0.[Balance], T0.[TrackingNt], T0.[TrackiNtLn], T0.[SumDec], T0.[U_CXS_PRC], T0.[U_CXS_TRKC], T1.[DocLine], T1.[DocSubLine], T1.[LocCode], T1.[Quantity], T2.[ItemCode], T2.[SysNumber], T2.[WhsCode], T2.[Location], T2.[DataSource], T2.[UserSign], T2.[Transfered], T2.[Instance], T2.[AbsEntry], T2.[MdAbsEntry], T2.[ObjType], T2.[LogInstanc], T2.[UserSign2], T2.[UpdateDate] FROM  [dbo].[OBTN] T0  INNER  JOIN [dbo].[B1_SnBOpenQtyViewAlloc] T1  ON  T0.[ItemCode] = T1.[ItemCode]  AND  T0.[SysNumber] = T1.[SysNumber]  AND  T0.[ObjType] = T1.[ManagedBy]    LEFT OUTER  JOIN [dbo].[OBTW] T2  ON  T2.[ItemCode] = T1.[ItemCode]  AND  T2.[SysNumber] = T1.[SysNumber]  AND  T2.[WhsCode] = T1.[LocCode]   WHERE T1.[DocType] = (@P1)  AND  T1.[DocEntry] = (@P2)   ORDER BY T1.[DocLine],T1.[DocSubLine],T0.[AbsEntry],T2.[AbsEntry]',N'@P1 int,@P2 int',17,445884
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE (T0.[DocEntry] = (@P1)  AND  ((T0.[LineNum] = (@P2) ) OR  (T0.[LineNum] = (@P3) ) OR  (T0.[LineNum] = (@P4) )))  ORDER BY T0.[DocEntry],T0.[LineNum]f
+nvarchar(max)>
+@P1 int,@P2 int,@P3 int,@P4 int
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[DocEntry] , T0.[LineNum] , T0.[TargetType] , T0.[TrgetEntry] , T0.[BaseRef] , T0.[BaseType] , T0.[BaseEntry] , T0.[BaseLine] , T0.[LineStatus] , T0.[ItemCode] , T0.[Dscription] , T0.[Quantity] , T0.[ShipDate] , T0.[OpenQty] , T0.[Price] , T0.[Currency] , T0.[Rate] , T0.[DiscPrcnt] , T0.[LineTotal] , T0.[TotalFrgn] , T0.[OpenSum] , T0.[OpenSumFC] , T0.[VendorNum] , T0.[SerialNum] , T0.[WhsCode] , T0.[SlpCode] , T0.[Commission] , T0.[TreeType] , T0.[AcctCode] , T0.[TaxStatus] , T0.[GrossBuyPr] , T0.[PriceBefDi] , T0.[DocDate] , T0.[Flags] , T0.[OpenCreQty] , T0.[UseBaseUn] , T0.[SubCatNum] , T0.[BaseCard] , T0.[TotalSumSy] , T0.[OpenSumSys] , T0.[InvntSttus] , T0.[OcrCode] , T0.[Project] , T0.[CodeBars] , T0.[VatPrcnt] , T0.[VatGroup] , T0.[PriceAfVAT] , T0.[Height1] , T0.[Hght1Unit] , T0.[Height2] , T0.[Hght2Unit] , T0.[Width1] , T0.[Wdth1Unit] , T0.[Width2] , T0.[Wdth2Unit] , T0.[Length1] , T0.[Len1Unit] , T0.[length2] , T0.[Len2Unit] , T0.[Volume] , T0.[VolUnit] , T0.[Weight1] , T0.[Wght1Unit] , T0.[Weight2] , T0.[Wght2Unit] , T0.[Factor1] , T0.[Factor2] , T0.[Factor3] , T0.[Factor4] , T0.[PackQty] , T0.[UpdInvntry] , T0.[BaseDocNum] , T0.[BaseAtCard] , T0.[SWW] , T0.[VatSum] , T0.[VatSumFrgn] , T0.[VatSumSy] , T0.[FinncPriod] , T0.[ObjType] , T0.[LogInstanc] , T0.[BlockNum] , T0.[ImportLog] , T0.[DedVatSum] , T0.[DedVatSumF] , T0.[DedVatSumS] , T0.[IsAqcuistn] , T0.[DistribSum] , T0.[DstrbSumFC] , T0.[DstrbSumSC] , T0.[GrssProfit] , T0.[GrssProfSC] , T0.[GrssProfFC] , T0.[VisOrder] , T0.[INMPrice] , T0.[PoTrgNum] , T0.[PoTrgEntry] , T0.[DropShip] , T0.[PoLineNum] , T0.[Address] , T0.[TaxCode] , T0.[TaxType] , T0.[OrigItem] , T0.[BackOrdr] , T0.[FreeTxt] , T0.[PickStatus] , T0.[PickOty] , T0.[PickIdNo] , T0.[TrnsCode] , T0.[VatAppld] , T0.[VatAppldFC] , T0.[VatAppldSC] , T0.[BaseQty] , T0.[BaseOpnQty] , T0.[VatDscntPr] , T0.[WtLiable] , T0.[DeferrTax] , T0.[EquVatPer] , T0.[EquVatSum] , T0.[EquVatSumF] , T0.[EquVatSumS] , T0.[LineVat] , T0.[LineVatlF] , T0.[LineVatS] , T0.[unitMsr] , T0.[NumPerMsr] , T0.[CEECFlag] , T0.[ToStock] , T0.[ToDiff] , T0.[ExciseAmt] , T0.[TaxPerUnit] , T0.[TotInclTax] , T0.[CountryOrg] , T0.[StckDstSum] , T0.[ReleasQtty] , T0.[LineType] , T0.[TranType] , T0.[Text] , T0.[OwnerCode] , T0.[StockPrice] , T0.[ConsumeFCT] , T0.[LstByDsSum] , T0.[StckINMPr] , T0.[LstBINMPr] , T0.[StckDstFc] , T0.[StckDstSc] , T0.[LstByDsFc] , T0.[LstByDsSc] , T0.[StockSum] , T0.[StockSumFc] , T0.[StockSumSc] , T0.[StckSumApp] , T0.[StckAppFc] , T0.[StckAppSc] , T0.[ShipToCode] , T0.[ShipToDesc] , T0.[StckAppD] , T0.[StckAppDFC] , T0.[StckAppDSC] , T0.[BasePrice] , T0.[GTotal] , T0.[GTotalFC] , T0.[GTotalSC] , T0.[DistribExp] , T0.[DescOW] , T0.[DetailsOW] , T0.[GrossBase] , T0.[VatWoDpm] , T0.[VatWoDpmFc] , T0.[VatWoDpmSc] , T0.[CFOPCode] , T0.[CSTCode] , T0.[Usage] , T0.[TaxOnly] , T0.[WtCalced] , T0.[QtyToShip] , T0.[DelivrdQty] , T0.[OrderedQty] , T0.[CogsOcrCod] , T0.[CiOppLineN] , T0.[CogsAcct] , T0.[ChgAsmBoMW] , T0.[ActDelDate] , T0.[OcrCode2] , T0.[OcrCode3] , T0.[OcrCode4] , T0.[OcrCode5] , T0.[TaxDistSum] , T0.[TaxDistSFC] , T0.[TaxDistSSC] , T0.[PostTax] , T0.[Excisable] , T0.[AssblValue] , T0.[RG23APart1] , T0.[RG23APart2] , T0.[RG23CPart1] , T0.[RG23CPart2] , T0.[CogsOcrCo2] , T0.[CogsOcrCo3] , T0.[CogsOcrCo4] , T0.[CogsOcrCo5] , T0.[LnExcised] , T0.[LocCode] , T0.[StockValue] , T0.[GPTtlBasPr] , T0.[unitMsr2] , T0.[NumPerMsr2] , T0.[SpecPrice] , T0.[CSTfIPI] , T0.[CSTfPIS] , T0.[CSTfCOFINS] , T0.[ExLineNo] , T0.[isSrvCall] , T0.[PQTReqQty] , T0.[PQTReqDate] , T0.[PcDocType] , T0.[PcQuantity] , T0.[LinManClsd] , T0.[VatGrpSrc] , T0.[NoInvtryMv] , T0.[ActBaseEnt] , T0.[ActBaseLn] , T0.[ActBaseNum] , T0.[OpenRtnQty] , T0.[AgrNo] , T0.[AgrLnNum] , T0.[CredOrigin] , T0.[Surpluses] , T0.[DefBreak] , T0.[Shortages] , T0.[UomEntry] , T0.[UomEntry2] , T0.[UomCode] , T0.[UomCode2] , T0.[FromWhsCod] , T0.[NeedQty] , T0.[PartRetire] , T0.[RetireQty] , T0.[RetireAPC] , T0.[RetirAPCFC] , T0.[RetirAPCSC] , T0.[InvQty] , T0.[OpenInvQty] , T0.[EnSetCost] , T0.[RetCost] , T0.[Incoterms] , T0.[TransMod] , T0.[LineVendor] , T0.[DistribIS] , T0.[ISDistrb] , T0.[ISDistrbFC] , T0.[ISDistrbSC] , T0.[IsByPrdct] , T0.[ItemType] , T0.[PriceEdit] , T0.[PrntLnNum] , T0.[LinePoPrss] , T0.[FreeChrgBP] , T0.[TaxRelev] , T0.[LegalText] , T0.[ThirdParty] , T0.[LicTradNum] , T0.[InvQtyOnly] , T0.[UnencReasn] , T0.[ShipFromCo] , T0.[ShipFromDe] , T0.[FisrtBin] , T0.[AllocBinC] , T0.[ExpType] , T0.[ExpUUID] , T0.[ExpOpType] , T0.[DIOTNat] , T0.[MYFtype] , T0.[GPBefDisc] , T0.[ReturnRsn] , T0.[ReturnAct] , T0.[StgSeqNum] , T0.[StgEntry] , T0.[StgDesc] , T0.[ItmTaxType] , T0.[SacEntry] , T0.[NCMCode] , T0.[HsnEntry] , T0.[OriBAbsEnt] , T0.[OriBLinNum] , T0.[OriBDocTyp] , T0.[IsPrscGood] , T0.[IsCstmAct] , T0.[EncryptIV] , T0.[ExtTaxRate] , T0.[ExtTaxSum] , T0.[TaxAmtSrc] , T0.[ExtTaxSumF] , T0.[ExtTaxSumS] , T0.[StdItemId] , T0.[CommClass] , T0.[VatExEntry] , T0.[VatExLN] , T0.[NatOfTrans] , T0.[ISDtCryImp] , T0.[ISDtRgnImp] , T0.[ISOrCryExp] , T0.[ISOrRgnExp] , T0.[NVECode] , T0.[PoNum] , T0.[PoItmNum] , T0.[IndEscala] , T0.[CESTCode] , T0.[CtrSealQty] , T0.[CNJPMan] , T0.[UFFiscBene] , T0.[CUSplit] , T0.[LegalTIMD] , T0.[LegalTTCA] , T0.[LegalTW] , T0.[LegalTCD] , T0.[RevCharge] , T0.[ListNum] , T0.[RecogAmt] , T0.[RecogAmtSC] , T0.[RecogAmtFC] , T0.[RecogVatGr] , T0.[RecogVatPr] , T0.[NonDdAmt] , T0.[NonDdAmtSC] , T0.[NonDdAmtFC] , T0.[PPTaxExRe] , T0.[PlPaWght] , T0.[CUP] , T0.[CIG] , T0.[OperProfit] , T0.[OperProfFC] , T0.[OperProfSy] , T0.[NetIncome] , T0.[NetIncomFC] , T0.[NetIncomSy] , T0.[UoMNum] , T0.[UoMDen] , T0.[UoMNum2] , T0.[UoMDen2] , T0.[CSTfIBS] , T0.[CSTfCBS] , T0.[CSTfIS] , T0.[U_Branch_Name] , T0.[U_CXS_TDKY] , T0.[U_CXS_RGCD] , T0.[U_PaidinFull] , T0.[U_ArrivalDate] , T0.[U_StockAllocated] , T0.[U_Modified] , T0.[U_ShipDate] , T0.[U_TrnsCode] , T0.[U_UI_Tag] , T0.[U_TRC_INS] , T0.[U_WMS_LN_REF] , T0.[U_StkArrivedDate] , T0.[U_TRC_FDtls] , T0.[U_CXS_RCQT]  FROM [dbo].[RDR1] T0 WHERE (T0.[DocEntry] = (@P1)  AND  ((T0.[LineNum] = (@P2) ) OR  (T0.[LineNum] = (@P3) ) OR  (T0.[LineNum] = (@P4) )))  ORDER BY T0.[DocEntry],T0.[LineNum]',N'@P1 int,@P2 int,@P3 int,@P4 int',445884,0,1,2
+SAP Business One
+-- TRACE: Trans Id=3 ROLLBACK
+B1_5341505F4D5552504859_RW
+ SET TRANSACTION ISOLATION LEVEL READ COMMITTED 
+B1_5341505F4D5552504859_RW
+SAP Business One
+SAP Business One
+sp_executesql
+nvarchar(max)
+SELECT T0.[ContractID], T0.[CstmrName], T0.[CstmrCode], T0.[EndDate], T0.[RemindUnit], T0.[RemindVal], T0.[Owner] FROM [dbo].[OCTR] T0 WHERE T0.[Renewal] = (@P1)  AND  T0.[RemindFlg] = (@P2)  V
+nvarchar(max).
+@P1 char(1),@P2 char(1)
+B1_5341505F4D5552504859_RW
+exec sp_executesql N'SELECT T0.[ContractID], T0.[CstmrName], T0.[CstmrCode], T0.[EndDate], T0.[RemindUnit], T0.[RemindVal], T0.[Owner] FROM [dbo].[OCTR] T0 WHERE T0.[Renewal] = (@P1)  AND  T0.[RemindFlg] = (@P2)  ',N'@P1 char(1),@P2 char(1)','Y','N'
+SAP Business One
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+sp_execute
+*datetime2(7)
+varchar(8000)
+sp_execute
+sp_execute
+sp_execute
+sp_executesql
+nvarchar(max)
+SELECT T0.[ID], T0.[Type], T0.[BFParams], T0.[EFParams], T1.[TaskID], T1.[Type], T1.[Params] FROM  [dbo].[OBSJ] T0   LEFT OUTER  JOIN [dbo].[BSJ1] T1  ON  T1.[ID] = T0.[ID]   WHERE T0.[RunType] = (@P1)  AND  T0.[Status] = (@P2)  AND  (T1.[Status] = (@P3)  OR  T1.[Status] IS NULL  ) AND  (T0.[NextDate] < (@P4)  OR  (T0.[NextDate] = (@P5)  AND  T0.[NextTime] <= (@P6) ))  ORDER BY T0.[ID],T1.[ID]
+nvarchar(max)
+@P1 char(1),@P2 char(1),@P3 char(1),@P4 datetime2,@P5 datetime2,@P6 smallint
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 4,1,0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+varchar(8000)
+varchar(8000)
+exec sp_execute 5,'IDLE','RUNNING',0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+varchar(8000)	
+exec sp_execute 6,'2026-06-08 14:42:14.8820000','RUNNING','PREPARING'
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 2,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 1,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 12,1,0,1

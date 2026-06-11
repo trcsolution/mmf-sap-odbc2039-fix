@@ -1,0 +1,435 @@
+	Microsoft SQL Server
+DevServer
+SQL Server Profiler - 4c0818f6-331c-4087-b381-ee0186ecf1de
+tSQL Server Profiler - 4c0818f6-331c-4087-b381-ee0186ecf1de
+Microsoft JDBC Driver for SQL Server
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+SQLTELEMETRY$SQL20
+NT SERVICE\SQLTELEMETRY$SQL20
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+LOG_WRITER
+Microsoft JDBC Driver for SQL Server
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort on
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+Microsoft SQL Server Management Studio - Query
+-- network protocol: LPC
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+B1_SBOCOMMON
+Microsoft SQL Server Management Studio - Query
+-- network protocol: TCP/IP
+set quoted_identifier on
+set arithabort off
+set numeric_roundabort off
+set ansi_warnings on
+set ansi_padding on
+set ansi_nulls on
+set concat_null_yields_null on
+set cursor_close_on_commit off
+set implicit_transactions off
+set language us_english
+set dateformat mdy
+set datefirst 7
+set transaction isolation level read committed
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+varchar(8000)
+varchar(8000)
+exec sp_execute 5,'IDLE','RUNNING',0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+varchar(8000)	
+exec sp_execute 6,'2026-06-08 14:32:24.8830000','RUNNING','PREPARING'
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 3,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 10,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 11,1,0,1
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+sp_execute
+varchar(8000)
+exec sp_execute 14,1780925575692,'NON_CLUSTERED'
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 9,1,0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+jdecimal(38,0)&
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+sp_execute
+*datetime2(7)
+varchar(8000)
+sp_execute
+sp_execute
+sp_execute
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 4,1,0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions on 
+set implicit_transactions on 
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+jdecimal(38,0)&
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+SET ROWCOUNT 0
+SET ROWCOUNT 0
+sp_execute
+varchar(8000)
+varchar(8000)
+exec sp_execute 5,'IDLE','RUNNING',0,1
+IF @@TRANCOUNT > 0 COMMIT TRAN
+IF @@TRANCOUNT > 0 COMMIT TRAN
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+varchar(8000)	
+exec sp_execute 6,'2026-06-08 14:32:34.8820000','RUNNING','PREPARING'
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 10,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 3,1,0,1
+Microsoft JDBC Driver for SQL Server
+exec sp_execute 11,1,0,1
+set implicit_transactions on 
+set implicit_transactions on 
+sp_execute
+Microsoft JDBC Driver for SQL Server
+Microsoft JDBC Driver for SQL Server
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
+set implicit_transactions off IF @@TRANCOUNT > 0 COMMIT TRAN 
